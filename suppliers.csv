@@ -1,0 +1,16 @@
+supplier_id,supplier_name,country,commodity,vda63_score
+SUP001,MetalTech Querétaro,Mexico,Metal stamping,90.6
+SUP002,Polímeros del Bajío,Mexico,Injection molding,82.5
+SUP003,ElectroParts MX,Mexico,Electronics,92.6
+SUP004,Stamping Saltillo,Mexico,Metal stamping,88.7
+SUP005,Precision Castings GDL,Mexico,Castings,74.3
+SUP006,Conectores del Norte,Mexico,Connectors,95.4
+SUP007,Inyección Toluca,Mexico,Injection molding,90.3
+SUP008,Forjas Monterrey,Mexico,Forgings,90.9
+SUP009,Sensores y Controles SA,Mexico,Sensors,75.1
+SUP010,Cables y Arneses MX,Mexico,Wire harness,82.8
+SUP011,Tornillería Industrial,Mexico,Fasteners,80.9
+SUP012,Plásticos Lerma,Mexico,Injection molding,94.2
+SUP013,Die Casting Puebla,Mexico,Die casting,87.5
+SUP014,Resortes y Sujeción,USA,Springs,91.7
+SUP015,Maquinados CNC del Centro,Mexico,Machining,82.6

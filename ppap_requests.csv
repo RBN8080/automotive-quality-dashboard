@@ -1,0 +1,621 @@
+ppap_id,supplier_id,component,submission_level,submission_date,approval_date,cycle_days,status,trigger
+PPAP-2024-0001,SUP011,Window lift actuator,Level 3,2024-01-05,2024-01-16,11,Interim Approved,Re-qualification
+PPAP-2024-0002,SUP015,Wiper arm,Level 3,2024-01-06,2024-01-29,23,Approved,New launch
+PPAP-2024-0003,SUP008,ECU housing,Level 3,2024-01-07,2024-02-10,34,Interim Approved,Engineering change
+PPAP-2024-0004,SUP011,Fan shroud,Level 3,2024-01-07,2024-01-25,18,Interim Approved,Engineering change
+PPAP-2024-0005,SUP003,Connector bracket,Level 1,2024-01-09,2024-01-24,15,Approved,Engineering change
+PPAP-2024-0006,SUP011,Engine fan,Level 3,2024-01-13,2024-01-27,14,Approved,Re-qualification
+PPAP-2024-0007,SUP013,Wiper arm,Level 3,2024-01-16,2024-01-29,13,Approved,New launch
+PPAP-2024-0008,SUP015,Window lift actuator,Level 3,2024-01-16,2024-03-01,45,Approved,Engineering change
+PPAP-2024-0009,SUP003,Fan shroud,Level 3,2024-01-18,2024-01-27,9,Interim Approved,Engineering change
+PPAP-2024-0010,SUP010,Connector bracket,Level 1,2024-01-19,2024-03-06,47,Rejected,Re-qualification
+PPAP-2024-0011,SUP014,ECU housing,Level 3,2024-01-20,2024-01-25,5,Approved,New launch
+PPAP-2024-0012,SUP002,Engine fan,Level 3,2024-01-20,2024-02-03,14,Approved,Engineering change
+PPAP-2024-0013,SUP001,Cooling pump,Level 1,2024-01-21,2024-02-11,21,Interim Approved,Tooling transfer
+PPAP-2024-0014,SUP001,Control lever,Level 1,2024-01-21,2024-02-05,15,Interim Approved,Tooling transfer
+PPAP-2024-0015,SUP001,ECU housing,Level 5,2024-01-22,2024-02-10,19,Approved,New launch
+PPAP-2024-0016,SUP004,Fuel pump module,Level 1,2024-01-23,2024-02-28,36,Interim Approved,Tooling transfer
+PPAP-2024-0017,SUP005,ECU housing,Level 1,2024-01-28,2024-02-26,29,Approved,Engineering change
+PPAP-2024-0018,SUP015,Control lever,Level 1,2024-01-29,2024-02-15,17,Rejected,Re-qualification
+PPAP-2024-0019,SUP015,Connector bracket,Level 3,2024-01-31,2024-03-07,36,Interim Approved,New launch
+PPAP-2024-0020,SUP007,Fuel pump module,Level 5,2024-01-31,2024-03-03,32,Approved,New launch
+PPAP-2024-0021,SUP013,Wiper arm,Level 3,2024-02-02,2024-02-11,9,Approved,Tooling transfer
+PPAP-2024-0022,SUP012,ECU housing,Level 1,2024-02-02,2024-03-03,30,Approved,Re-qualification
+PPAP-2024-0023,SUP007,Wiper arm,Level 1,2024-02-06,2024-03-06,29,Approved,Tooling transfer
+PPAP-2024-0024,SUP009,Engine fan,Level 3,2024-02-08,2024-03-25,46,Interim Approved,New launch
+PPAP-2024-0025,SUP004,Connector bracket,Level 3,2024-02-09,2024-03-14,34,Interim Approved,Engineering change
+PPAP-2024-0026,SUP007,Connector bracket,Level 3,2024-02-09,2024-03-05,25,Approved,Engineering change
+PPAP-2024-0027,SUP002,Window lift actuator,Level 3,2024-02-13,2024-03-14,30,Approved,Engineering change
+PPAP-2024-0028,SUP012,ECU housing,Level 3,2024-02-15,2024-03-12,26,Approved,New launch
+PPAP-2024-0029,SUP015,Fan shroud,Level 3,2024-02-17,2024-03-09,21,Approved,Engineering change
+PPAP-2024-0030,SUP003,Fuel pump module,Level 3,2024-02-18,2024-02-27,9,Approved,Engineering change
+PPAP-2024-0031,SUP009,ECU housing,Level 3,2024-02-21,2024-04-09,48,Interim Approved,Engineering change
+PPAP-2024-0032,SUP008,ECU housing,Level 3,2024-02-23,2024-05-12,79,Approved,Re-qualification
+PPAP-2024-0033,SUP002,Connector bracket,Level 3,2024-02-27,2024-03-27,29,Approved,New launch
+PPAP-2024-0034,SUP008,Control lever,Level 1,2024-02-28,2024-04-20,52,Rejected,New launch
+PPAP-2024-0035,SUP009,Cooling pump,Level 3,2024-02-29,2024-04-05,36,Approved,New launch
+PPAP-2024-0036,SUP007,Control lever,Level 1,2024-03-04,2024-03-15,11,Approved,Engineering change
+PPAP-2024-0037,SUP011,Window lift actuator,Level 5,2024-03-08,2024-03-13,5,Rejected,Re-qualification
+PPAP-2024-0038,SUP007,Cooling pump,Level 3,2024-03-10,2024-04-05,26,Approved,Engineering change
+PPAP-2024-0039,SUP006,Electric seat actuator,Level 1,2024-03-10,2024-04-24,45,Approved,New launch
+PPAP-2024-0040,SUP007,Control lever,Level 3,2024-03-12,2024-04-15,34,Approved,Tooling transfer
+PPAP-2024-0041,SUP010,Window lift actuator,Level 1,2024-03-13,2024-05-05,53,Approved,Re-qualification
+PPAP-2024-0042,SUP001,Engine fan,Level 1,2024-03-15,2024-04-11,27,Approved,Tooling transfer
+PPAP-2024-0043,SUP015,Electric seat actuator,Level 3,2024-03-15,2024-03-31,16,Approved,Engineering change
+PPAP-2024-0044,SUP011,Engine fan,Level 3,2024-03-15,2024-03-28,13,Approved,Engineering change
+PPAP-2024-0045,SUP009,ECU housing,Level 1,2024-03-18,2024-04-24,37,Interim Approved,Engineering change
+PPAP-2024-0046,SUP012,Fan shroud,Level 3,2024-03-20,2024-04-21,32,Interim Approved,Re-qualification
+PPAP-2024-0047,SUP011,Control lever,Level 3,2024-03-20,2024-04-06,17,Rejected,Re-qualification
+PPAP-2024-0048,SUP006,Cooling pump,Level 5,2024-03-21,2024-04-15,25,Approved,Engineering change
+PPAP-2024-0049,SUP006,Window lift actuator,Level 1,2024-03-23,2024-05-08,46,Approved,Tooling transfer
+PPAP-2024-0050,SUP011,Engine fan,Level 1,2024-03-24,2024-04-11,18,Approved,New launch
+PPAP-2024-0051,SUP003,Wiper arm,Level 3,2024-03-24,2024-04-06,13,Rejected,Engineering change
+PPAP-2024-0052,SUP015,Wiper arm,Level 5,2024-03-24,2024-04-30,37,Interim Approved,Re-qualification
+PPAP-2024-0053,SUP007,Control lever,Level 3,2024-03-26,2024-04-23,28,Interim Approved,Engineering change
+PPAP-2024-0054,SUP015,ECU housing,Level 3,2024-03-26,2024-05-16,51,Rejected,Engineering change
+PPAP-2024-0055,SUP015,Wiper arm,Level 1,2024-03-28,2024-04-26,29,Approved,Re-qualification
+PPAP-2024-0056,SUP015,Engine fan,Level 5,2024-03-30,2024-05-11,42,Approved,Engineering change
+PPAP-2024-0057,SUP002,Wiper arm,Level 3,2024-04-01,2024-05-12,41,Interim Approved,Tooling transfer
+PPAP-2024-0058,SUP007,Control lever,Level 1,2024-04-02,2024-04-28,26,Approved,New launch
+PPAP-2024-0059,SUP014,ECU housing,Level 5,2024-04-03,2024-04-11,8,Interim Approved,Engineering change
+PPAP-2024-0060,SUP006,Control lever,Level 3,2024-04-03,2024-05-11,38,Approved,Re-qualification
+PPAP-2024-0061,SUP007,Electric seat actuator,Level 1,2024-04-04,2024-04-28,24,Approved,Engineering change
+PPAP-2024-0062,SUP011,Control lever,Level 5,2024-04-05,2024-04-30,25,Approved,New launch
+PPAP-2024-0063,SUP012,Control lever,Level 3,2024-04-05,2024-04-28,23,Approved,New launch
+PPAP-2024-0064,SUP009,Control lever,Level 3,2024-04-06,2024-05-02,26,Approved,Engineering change
+PPAP-2024-0065,SUP007,Control lever,Level 3,2024-04-10,2024-05-17,37,Approved,New launch
+PPAP-2024-0066,SUP002,Fan shroud,Level 5,2024-04-11,2024-04-24,13,Approved,Engineering change
+PPAP-2024-0067,SUP006,Window lift actuator,Level 3,2024-04-11,2024-06-05,55,Approved,New launch
+PPAP-2024-0068,SUP005,Engine fan,Level 3,2024-04-12,2024-05-15,33,Approved,Tooling transfer
+PPAP-2024-0069,SUP015,Wiper arm,Level 5,2024-04-14,2024-05-07,23,Approved,New launch
+PPAP-2024-0070,SUP009,Cooling pump,Level 3,2024-04-14,2024-05-30,46,Approved,Engineering change
+PPAP-2024-0071,SUP010,ECU housing,Level 3,2024-04-14,2024-05-12,28,Approved,New launch
+PPAP-2024-0072,SUP006,Control lever,Level 3,2024-04-17,2024-05-27,40,Interim Approved,Re-qualification
+PPAP-2024-0073,SUP010,Engine fan,Level 3,2024-04-18,2024-06-01,44,Rejected,Re-qualification
+PPAP-2024-0074,SUP011,Connector bracket,Level 3,2024-04-19,2024-05-03,14,Approved,New launch
+PPAP-2024-0075,SUP007,ECU housing,Level 3,2024-04-21,2024-05-10,19,Approved,New launch
+PPAP-2024-0076,SUP015,Connector bracket,Level 3,2024-04-22,2024-05-16,24,Approved,New launch
+PPAP-2024-0077,SUP015,Engine fan,Level 1,2024-04-24,2024-05-25,31,Approved,New launch
+PPAP-2024-0078,SUP010,Cooling pump,Level 3,2024-04-25,2024-06-12,48,Interim Approved,New launch
+PPAP-2024-0079,SUP008,Cooling pump,Level 1,2024-04-26,2024-06-16,51,Approved,Re-qualification
+PPAP-2024-0080,SUP003,Electric seat actuator,Level 3,2024-04-26,2024-05-08,12,Approved,Engineering change
+PPAP-2024-0081,SUP009,Wiper arm,Level 3,2024-04-26,2024-05-23,27,Approved,New launch
+PPAP-2024-0082,SUP014,Engine fan,Level 3,2024-04-28,2024-05-09,11,Approved,Tooling transfer
+PPAP-2024-0083,SUP008,Electric seat actuator,Level 1,2024-05-03,2024-05-30,27,Interim Approved,New launch
+PPAP-2024-0084,SUP005,Window lift actuator,Level 1,2024-05-03,2024-06-06,34,Approved,New launch
+PPAP-2024-0085,SUP003,Window lift actuator,Level 3,2024-05-03,2024-05-08,5,Approved,Engineering change
+PPAP-2024-0086,SUP011,Control lever,Level 3,2024-05-03,2024-05-20,17,Interim Approved,New launch
+PPAP-2024-0087,SUP014,Wiper arm,Level 5,2024-05-03,2024-05-14,11,Approved,Engineering change
+PPAP-2024-0088,SUP015,ECU housing,Level 3,2024-05-03,2024-06-24,52,Approved,New launch
+PPAP-2024-0089,SUP009,Wiper arm,Level 3,2024-05-04,2024-06-19,46,Approved,New launch
+PPAP-2024-0090,SUP013,Electric seat actuator,Level 1,2024-05-06,2024-05-19,13,Approved,New launch
+PPAP-2024-0091,SUP010,Wiper arm,Level 3,2024-05-06,2024-07-01,56,Interim Approved,Re-qualification
+PPAP-2024-0092,SUP003,Fan shroud,Level 3,2024-05-07,2024-05-20,13,Approved,New launch
+PPAP-2024-0093,SUP012,Fan shroud,Level 1,2024-05-08,2024-05-23,15,Approved,Tooling transfer
+PPAP-2024-0094,SUP009,Fan shroud,Level 5,2024-05-10,2024-06-19,40,Rejected,Engineering change
+PPAP-2024-0095,SUP003,ECU housing,Level 3,2024-05-13,2024-05-25,12,Approved,New launch
+PPAP-2024-0096,SUP006,ECU housing,Level 3,2024-05-13,2024-05-28,15,Approved,New launch
+PPAP-2024-0097,SUP013,Control lever,Level 3,2024-05-14,2024-05-26,12,Approved,Engineering change
+PPAP-2024-0098,SUP012,ECU housing,Level 3,2024-05-15,2024-06-21,37,Approved,Tooling transfer
+PPAP-2024-0099,SUP003,Engine fan,Level 3,2024-05-15,2024-05-28,13,Approved,Engineering change
+PPAP-2024-0100,SUP007,Engine fan,Level 3,2024-05-17,2024-06-04,18,Interim Approved,Engineering change
+PPAP-2024-0101,SUP008,Window lift actuator,Level 1,2024-05-21,2024-06-17,27,Approved,Re-qualification
+PPAP-2024-0102,SUP015,Connector bracket,Level 3,2024-05-22,2024-06-11,20,Approved,Re-qualification
+PPAP-2024-0103,SUP010,Cooling pump,Level 3,2024-05-22,2024-06-26,35,Interim Approved,Re-qualification
+PPAP-2024-0104,SUP015,Fan shroud,Level 5,2024-05-25,2024-06-15,21,Rejected,Re-qualification
+PPAP-2024-0105,SUP008,Electric seat actuator,Level 1,2024-05-25,2024-07-26,62,Interim Approved,Tooling transfer
+PPAP-2024-0106,SUP015,Cooling pump,Level 3,2024-05-25,2024-07-16,52,Rejected,New launch
+PPAP-2024-0107,SUP006,ECU housing,Level 3,2024-05-26,2024-07-10,45,Approved,Tooling transfer
+PPAP-2024-0108,SUP008,Engine fan,Level 3,2024-05-26,2024-07-20,55,Approved,New launch
+PPAP-2024-0109,SUP005,Window lift actuator,Level 5,2024-05-27,2024-07-01,35,Approved,New launch
+PPAP-2024-0110,SUP003,Electric seat actuator,Level 3,2024-05-30,2024-06-11,12,Interim Approved,New launch
+PPAP-2024-0111,SUP015,Window lift actuator,Level 3,2024-06-02,2024-06-30,28,Approved,New launch
+PPAP-2024-0112,SUP001,Engine fan,Level 3,2024-06-03,2024-06-25,22,Approved,New launch
+PPAP-2024-0113,SUP004,Fuel pump module,Level 5,2024-06-03,2024-07-08,35,Interim Approved,Tooling transfer
+PPAP-2024-0114,SUP002,Connector bracket,Level 1,2024-06-04,2024-06-22,18,Rejected,New launch
+PPAP-2024-0115,SUP015,Cooling pump,Level 3,2024-06-04,2024-07-02,28,Approved,Engineering change
+PPAP-2024-0116,SUP007,Fan shroud,Level 1,2024-06-07,2024-06-26,19,Approved,Re-qualification
+PPAP-2024-0117,SUP006,Fan shroud,Level 3,2024-06-07,2024-07-02,25,Approved,Engineering change
+PPAP-2024-0118,SUP002,Wiper arm,Level 5,2024-06-08,2024-07-05,27,Approved,New launch
+PPAP-2024-0119,SUP004,Control lever,Level 3,2024-06-09,2024-07-01,22,Approved,New launch
+PPAP-2024-0120,SUP010,Engine fan,Level 3,2024-06-09,2024-07-21,42,Approved,Re-qualification
+PPAP-2024-0121,SUP009,Control lever,Level 3,2024-06-10,2024-07-07,27,Approved,New launch
+PPAP-2024-0122,SUP005,Window lift actuator,Level 3,2024-06-15,2024-07-07,22,Rejected,Engineering change
+PPAP-2024-0123,SUP005,Engine fan,Level 3,2024-06-16,2024-07-15,29,Approved,New launch
+PPAP-2024-0124,SUP006,Window lift actuator,Level 5,2024-06-18,2024-07-28,40,Approved,New launch
+PPAP-2024-0125,SUP006,Fan shroud,Level 1,2024-06-20,2024-07-12,22,Approved,New launch
+PPAP-2024-0126,SUP003,Connector bracket,Level 3,2024-06-22,2024-07-08,16,Approved,Engineering change
+PPAP-2024-0127,SUP008,Fan shroud,Level 3,2024-06-25,2024-08-11,47,Rejected,Engineering change
+PPAP-2024-0128,SUP006,Engine fan,Level 3,2024-06-25,2024-08-04,40,Rejected,New launch
+PPAP-2024-0129,SUP014,Cooling pump,Level 3,2024-06-27,2024-07-10,13,Approved,Re-qualification
+PPAP-2024-0130,SUP013,Fuel pump module,Level 3,2024-06-27,2024-07-09,12,Approved,New launch
+PPAP-2024-0131,SUP009,Connector bracket,Level 3,2024-06-27,2024-08-02,36,Approved,New launch
+PPAP-2024-0132,SUP007,Window lift actuator,Level 5,2024-06-27,2024-07-18,21,Approved,New launch
+PPAP-2024-0133,SUP007,Wiper arm,Level 3,2024-07-08,2024-08-07,30,Approved,Engineering change
+PPAP-2024-0134,SUP010,Connector bracket,Level 3,2024-07-16,2024-08-03,18,Approved,Re-qualification
+PPAP-2024-0135,SUP009,Electric seat actuator,Level 3,2024-07-19,2024-08-09,21,Rejected,Tooling transfer
+PPAP-2024-0136,SUP007,Fan shroud,Level 5,2024-07-20,2024-08-07,18,Approved,Engineering change
+PPAP-2024-0137,SUP012,Wiper arm,Level 3,2024-07-21,2024-08-15,25,Approved,Engineering change
+PPAP-2024-0138,SUP011,Connector bracket,Level 3,2024-07-22,2024-08-12,21,Approved,Engineering change
+PPAP-2024-0139,SUP007,Engine fan,Level 3,2024-07-24,2024-08-15,22,Approved,Engineering change
+PPAP-2024-0140,SUP011,ECU housing,Level 1,2024-07-24,2024-08-12,19,Approved,Re-qualification
+PPAP-2024-0141,SUP015,Control lever,Level 1,2024-07-25,2024-08-15,21,Interim Approved,New launch
+PPAP-2024-0142,SUP012,Window lift actuator,Level 5,2024-07-26,2024-08-26,31,Approved,New launch
+PPAP-2024-0143,SUP015,Fan shroud,Level 3,2024-07-27,2024-08-06,10,Rejected,New launch
+PPAP-2024-0144,SUP005,ECU housing,Level 3,2024-07-27,2024-09-06,41,Rejected,Engineering change
+PPAP-2024-0145,SUP009,Electric seat actuator,Level 3,2024-07-27,2024-08-29,33,Rejected,Engineering change
+PPAP-2024-0146,SUP003,Connector bracket,Level 3,2024-07-29,2024-08-13,15,Approved,Engineering change
+PPAP-2024-0147,SUP007,ECU housing,Level 5,2024-07-30,2024-08-15,16,Approved,Tooling transfer
+PPAP-2024-0148,SUP005,Control lever,Level 3,2024-07-30,2024-09-03,35,Interim Approved,Re-qualification
+PPAP-2024-0149,SUP002,Engine fan,Level 3,2024-07-31,2024-08-16,16,Approved,New launch
+PPAP-2024-0150,SUP005,Fuel pump module,Level 3,2024-08-03,2024-09-07,35,Approved,Re-qualification
+PPAP-2024-0151,SUP005,Control lever,Level 3,2024-08-04,2024-08-28,24,Approved,Re-qualification
+PPAP-2024-0152,SUP003,Control lever,Level 1,2024-08-06,2024-08-18,12,Interim Approved,Engineering change
+PPAP-2024-0153,SUP007,Connector bracket,Level 3,2024-08-07,2024-08-22,15,Approved,Engineering change
+PPAP-2024-0154,SUP014,Connector bracket,Level 1,2024-08-08,2024-08-31,23,Approved,Re-qualification
+PPAP-2024-0155,SUP004,Fuel pump module,Level 1,2024-08-08,2024-09-15,38,Interim Approved,Re-qualification
+PPAP-2024-0156,SUP009,Window lift actuator,Level 3,2024-08-13,2024-09-18,36,Interim Approved,Engineering change
+PPAP-2024-0157,SUP012,ECU housing,Level 3,2024-08-18,2024-09-07,20,Rejected,New launch
+PPAP-2024-0158,SUP011,Wiper arm,Level 3,2024-08-19,2024-09-10,22,Approved,Engineering change
+PPAP-2024-0159,SUP004,Electric seat actuator,Level 3,2024-08-20,2024-10-02,43,Approved,Re-qualification
+PPAP-2024-0160,SUP014,Control lever,Level 3,2024-08-22,2024-09-13,22,Approved,Re-qualification
+PPAP-2024-0161,SUP003,Engine fan,Level 5,2024-08-23,2024-09-03,11,Approved,New launch
+PPAP-2024-0162,SUP005,Window lift actuator,Level 1,2024-08-23,2024-09-26,34,Approved,New launch
+PPAP-2024-0163,SUP002,Engine fan,Level 3,2024-08-24,2024-09-19,26,Approved,Re-qualification
+PPAP-2024-0164,SUP006,Window lift actuator,Level 3,2024-08-28,2024-09-29,32,Rejected,Engineering change
+PPAP-2024-0165,SUP007,Control lever,Level 3,2024-08-29,2024-09-30,32,Approved,New launch
+PPAP-2024-0166,SUP005,Wiper arm,Level 3,2024-08-31,2024-09-30,30,Interim Approved,Engineering change
+PPAP-2024-0167,SUP007,Fuel pump module,Level 1,2024-08-31,2024-09-18,18,Interim Approved,New launch
+PPAP-2024-0168,SUP006,Window lift actuator,Level 3,2024-09-01,2024-10-17,46,Rejected,Tooling transfer
+PPAP-2024-0169,SUP013,Window lift actuator,Level 3,2024-09-03,2024-09-12,9,Approved,Re-qualification
+PPAP-2024-0170,SUP015,Connector bracket,Level 3,2024-09-04,2024-09-10,6,Approved,Engineering change
+PPAP-2024-0171,SUP015,Fuel pump module,Level 3,2024-09-05,2024-09-21,16,Interim Approved,Re-qualification
+PPAP-2024-0172,SUP006,Wiper arm,Level 3,2024-09-05,2024-10-05,30,Approved,Engineering change
+PPAP-2024-0173,SUP010,Fuel pump module,Level 3,2024-09-05,2024-09-29,24,Interim Approved,Engineering change
+PPAP-2024-0174,SUP003,Cooling pump,Level 3,2024-09-07,2024-09-21,14,Approved,Engineering change
+PPAP-2024-0175,SUP010,ECU housing,Level 3,2024-09-08,2024-10-21,43,Approved,Re-qualification
+PPAP-2024-0176,SUP012,ECU housing,Level 3,2024-09-09,2024-10-09,30,Interim Approved,Engineering change
+PPAP-2024-0177,SUP013,Connector bracket,Level 3,2024-09-10,2024-09-25,15,Approved,New launch
+PPAP-2024-0178,SUP005,ECU housing,Level 3,2024-09-11,2024-10-26,45,Approved,Engineering change
+PPAP-2024-0179,SUP008,Window lift actuator,Level 3,2024-09-11,2024-10-21,40,Rejected,Engineering change
+PPAP-2024-0180,SUP004,Electric seat actuator,Level 3,2024-09-12,2024-11-15,64,Approved,New launch
+PPAP-2024-0181,SUP013,Control lever,Level 1,2024-09-13,2024-09-22,9,Approved,New launch
+PPAP-2024-0182,SUP007,ECU housing,Level 3,2024-09-15,2024-09-28,13,Interim Approved,Re-qualification
+PPAP-2024-0183,SUP011,Fan shroud,Level 3,2024-09-16,2024-10-07,21,Approved,New launch
+PPAP-2024-0184,SUP008,Connector bracket,Level 1,2024-09-18,2024-11-06,49,Rejected,Tooling transfer
+PPAP-2024-0185,SUP005,Engine fan,Level 3,2024-09-18,2024-10-19,31,Approved,New launch
+PPAP-2024-0186,SUP010,Cooling pump,Level 5,2024-09-20,2024-11-01,42,Approved,Engineering change
+PPAP-2024-0187,SUP009,Cooling pump,Level 3,2024-09-21,2024-10-23,32,Approved,Tooling transfer
+PPAP-2024-0188,SUP013,Connector bracket,Level 3,2024-09-22,2024-10-03,11,Approved,Engineering change
+PPAP-2024-0189,SUP006,Engine fan,Level 3,2024-09-22,2024-10-30,38,Interim Approved,New launch
+PPAP-2024-0190,SUP002,Cooling pump,Level 3,2024-09-23,2024-11-06,44,Approved,Engineering change
+PPAP-2024-0191,SUP013,Fuel pump module,Level 3,2024-09-25,2024-10-05,10,Interim Approved,Re-qualification
+PPAP-2024-0192,SUP015,Connector bracket,Level 1,2024-09-26,2024-11-04,39,Interim Approved,Tooling transfer
+PPAP-2024-0193,SUP013,Cooling pump,Level 1,2024-09-29,2024-10-12,13,Approved,New launch
+PPAP-2024-0194,SUP015,ECU housing,Level 3,2024-09-30,2024-11-05,36,Approved,Re-qualification
+PPAP-2024-0195,SUP004,Engine fan,Level 3,2024-09-30,2024-11-15,46,Approved,New launch
+PPAP-2024-0196,SUP014,Control lever,Level 3,2024-09-30,2024-10-25,25,Approved,New launch
+PPAP-2024-0197,SUP007,Wiper arm,Level 5,2024-10-02,2024-10-08,6,Approved,Tooling transfer
+PPAP-2024-0198,SUP012,Control lever,Level 5,2024-10-03,2024-10-19,16,Approved,Engineering change
+PPAP-2024-0199,SUP002,Window lift actuator,Level 3,2024-10-05,2024-11-08,34,Approved,Tooling transfer
+PPAP-2024-0200,SUP011,ECU housing,Level 3,2024-10-05,2024-10-28,23,Approved,New launch
+PPAP-2024-0201,SUP014,Wiper arm,Level 3,2024-10-06,2024-10-18,12,Approved,Re-qualification
+PPAP-2024-0202,SUP001,Electric seat actuator,Level 3,2024-10-07,2024-10-27,20,Approved,New launch
+PPAP-2024-0203,SUP010,ECU housing,Level 1,2024-10-08,2024-11-12,35,Interim Approved,Engineering change
+PPAP-2024-0204,SUP015,Fan shroud,Level 1,2024-10-09,2024-10-24,15,Approved,New launch
+PPAP-2024-0205,SUP003,Electric seat actuator,Level 3,2024-10-09,2024-10-25,16,Approved,Tooling transfer
+PPAP-2024-0206,SUP004,Electric seat actuator,Level 3,2024-10-09,2024-11-22,44,Rejected,Engineering change
+PPAP-2024-0207,SUP003,Engine fan,Level 5,2024-10-10,2024-10-24,14,Approved,Tooling transfer
+PPAP-2024-0208,SUP010,Electric seat actuator,Level 5,2024-10-11,2024-11-07,27,Approved,New launch
+PPAP-2024-0209,SUP005,Connector bracket,Level 1,2024-10-14,2024-11-01,18,Approved,Re-qualification
+PPAP-2024-0210,SUP015,Window lift actuator,Level 3,2024-10-15,2024-11-12,28,Rejected,Engineering change
+PPAP-2024-0211,SUP012,Engine fan,Level 3,2024-10-16,2024-11-18,33,Rejected,New launch
+PPAP-2024-0212,SUP008,Fuel pump module,Level 5,2024-10-17,2024-11-12,26,Approved,Engineering change
+PPAP-2024-0213,SUP009,Control lever,Level 5,2024-10-18,2024-12-06,49,Rejected,New launch
+PPAP-2024-0214,SUP014,Wiper arm,Level 5,2024-10-19,2024-11-06,18,Approved,Tooling transfer
+PPAP-2024-0215,SUP007,Wiper arm,Level 3,2024-10-21,2024-10-26,5,Approved,Engineering change
+PPAP-2024-0216,SUP003,Cooling pump,Level 3,2024-10-21,2024-11-07,17,Approved,Engineering change
+PPAP-2024-0217,SUP003,Connector bracket,Level 1,2024-10-22,2024-11-09,18,Approved,New launch
+PPAP-2024-0218,SUP005,Connector bracket,Level 5,2024-10-25,2024-11-30,36,Approved,Tooling transfer
+PPAP-2024-0219,SUP001,Fuel pump module,Level 1,2024-10-25,2024-11-10,16,Approved,New launch
+PPAP-2024-0220,SUP003,Fan shroud,Level 3,2024-10-29,2024-11-11,13,Approved,New launch
+PPAP-2024-0221,SUP008,Control lever,Level 5,2024-11-01,2025-01-11,71,Rejected,New launch
+PPAP-2024-0222,SUP002,Electric seat actuator,Level 5,2024-11-02,2024-12-20,48,Approved,Engineering change
+PPAP-2024-0223,SUP005,Wiper arm,Level 3,2024-11-11,2024-12-09,28,Approved,Engineering change
+PPAP-2024-0224,SUP003,ECU housing,Level 3,2024-11-15,2024-11-30,15,Approved,New launch
+PPAP-2024-0225,SUP011,Connector bracket,Level 3,2024-11-16,2024-11-27,11,Approved,Engineering change
+PPAP-2024-0226,SUP001,Fan shroud,Level 3,2024-11-19,2024-12-04,15,Rejected,Engineering change
+PPAP-2024-0227,SUP014,Engine fan,Level 3,2024-11-19,2024-12-06,17,Approved,Engineering change
+PPAP-2024-0228,SUP010,Electric seat actuator,Level 5,2024-11-19,2025-01-19,61,Approved,Engineering change
+PPAP-2024-0229,SUP011,Electric seat actuator,Level 3,2024-11-19,2024-12-08,19,Approved,Engineering change
+PPAP-2024-0230,SUP007,ECU housing,Level 3,2024-11-20,2024-12-27,37,Approved,Engineering change
+PPAP-2024-0231,SUP012,ECU housing,Level 3,2024-11-22,2024-12-11,19,Approved,Re-qualification
+PPAP-2024-0232,SUP006,Fan shroud,Level 3,2024-11-23,2024-12-13,20,Approved,Engineering change
+PPAP-2024-0233,SUP006,Window lift actuator,Level 3,2024-11-25,2025-01-11,47,Interim Approved,Re-qualification
+PPAP-2024-0234,SUP011,Fuel pump module,Level 1,2024-11-25,2024-12-23,28,Rejected,New launch
+PPAP-2024-0235,SUP006,Fuel pump module,Level 3,2024-11-26,2025-01-05,40,Rejected,Engineering change
+PPAP-2024-0236,SUP013,Window lift actuator,Level 1,2024-11-30,2024-12-15,15,Approved,New launch
+PPAP-2024-0237,SUP004,Cooling pump,Level 3,2024-12-01,2025-01-06,36,Interim Approved,New launch
+PPAP-2024-0238,SUP007,Engine fan,Level 3,2024-12-02,2024-12-26,24,Interim Approved,Engineering change
+PPAP-2024-0239,SUP007,Control lever,Level 1,2024-12-05,2024-12-22,17,Approved,Engineering change
+PPAP-2024-0240,SUP006,Cooling pump,Level 3,2024-12-07,2024-12-18,11,Interim Approved,New launch
+PPAP-2024-0241,SUP006,Window lift actuator,Level 3,2024-12-13,2025-01-22,40,Approved,New launch
+PPAP-2024-0242,SUP009,Wiper arm,Level 3,2024-12-16,2025-01-14,29,Approved,Re-qualification
+PPAP-2024-0243,SUP010,Connector bracket,Level 5,2024-12-22,2024-12-27,5,Rejected,Re-qualification
+PPAP-2024-0244,SUP006,Engine fan,Level 3,2024-12-24,2025-02-09,47,Approved,Engineering change
+PPAP-2024-0245,SUP008,Engine fan,Level 3,2024-12-26,2025-02-09,45,Interim Approved,New launch
+PPAP-2024-0246,SUP011,Fuel pump module,Level 5,2024-12-26,2025-01-15,20,Interim Approved,Re-qualification
+PPAP-2024-0247,SUP002,Control lever,Level 3,2024-12-27,2025-01-31,35,Approved,Engineering change
+PPAP-2024-0248,SUP010,Connector bracket,Level 3,2024-12-28,2025-01-11,14,Interim Approved,New launch
+PPAP-2024-0249,SUP004,Window lift actuator,Level 3,2024-12-29,2025-01-26,28,Rejected,Re-qualification
+PPAP-2025-0250,SUP001,ECU housing,Level 3,2025-01-01,2025-01-14,13,Approved,New launch
+PPAP-2025-0251,SUP014,Connector bracket,Level 3,2025-01-02,2025-01-18,16,Approved,New launch
+PPAP-2025-0252,SUP015,Fuel pump module,Level 3,2025-01-02,2025-01-22,20,Approved,Engineering change
+PPAP-2025-0253,SUP011,Fuel pump module,Level 3,2025-01-02,2025-01-17,15,Interim Approved,Re-qualification
+PPAP-2025-0254,SUP013,Fuel pump module,Level 5,2025-01-03,2025-01-14,11,Approved,New launch
+PPAP-2025-0255,SUP004,Fuel pump module,Level 1,2025-01-03,2025-02-06,34,Rejected,Engineering change
+PPAP-2025-0256,SUP006,Wiper arm,Level 1,2025-01-04,2025-01-12,8,Approved,Engineering change
+PPAP-2025-0257,SUP007,Engine fan,Level 3,2025-01-10,2025-01-21,11,Approved,Tooling transfer
+PPAP-2025-0258,SUP003,Engine fan,Level 3,2025-01-13,2025-01-26,13,Rejected,Engineering change
+PPAP-2025-0259,SUP002,Wiper arm,Level 3,2025-01-16,2025-02-23,38,Approved,New launch
+PPAP-2025-0260,SUP007,Engine fan,Level 5,2025-01-16,2025-02-10,25,Interim Approved,Re-qualification
+PPAP-2025-0261,SUP010,Fuel pump module,Level 1,2025-01-17,2025-02-18,32,Approved,Tooling transfer
+PPAP-2025-0262,SUP008,Engine fan,Level 3,2025-01-17,2025-04-06,79,Rejected,New launch
+PPAP-2025-0263,SUP002,Window lift actuator,Level 3,2025-01-17,2025-02-14,28,Interim Approved,Tooling transfer
+PPAP-2025-0264,SUP010,Control lever,Level 1,2025-01-17,2025-01-25,8,Approved,Re-qualification
+PPAP-2025-0265,SUP009,Cooling pump,Level 1,2025-01-18,2025-02-15,28,Interim Approved,Re-qualification
+PPAP-2025-0266,SUP003,Connector bracket,Level 5,2025-01-18,2025-01-23,5,Approved,Engineering change
+PPAP-2025-0267,SUP015,Wiper arm,Level 3,2025-01-18,2025-02-24,37,Interim Approved,New launch
+PPAP-2025-0268,SUP015,Fuel pump module,Level 3,2025-01-20,2025-02-21,32,Approved,Engineering change
+PPAP-2025-0269,SUP013,Wiper arm,Level 3,2025-01-20,2025-01-29,9,Approved,Engineering change
+PPAP-2025-0270,SUP004,Fan shroud,Level 5,2025-01-22,2025-02-09,18,Interim Approved,Engineering change
+PPAP-2025-0271,SUP013,Connector bracket,Level 3,2025-01-22,2025-02-11,20,Approved,Engineering change
+PPAP-2025-0272,SUP002,Connector bracket,Level 5,2025-01-24,2025-02-14,21,Approved,New launch
+PPAP-2025-0273,SUP008,Wiper arm,Level 5,2025-01-28,2025-03-08,39,Rejected,New launch
+PPAP-2025-0274,SUP004,Wiper arm,Level 3,2025-01-29,2025-02-15,17,Interim Approved,Re-qualification
+PPAP-2025-0275,SUP015,Electric seat actuator,Level 3,2025-01-29,2025-02-14,16,Interim Approved,Engineering change
+PPAP-2025-0276,SUP008,Electric seat actuator,Level 1,2025-01-31,2025-03-21,49,Rejected,Engineering change
+PPAP-2025-0277,SUP007,Connector bracket,Level 3,2025-02-04,2025-02-21,17,Interim Approved,Re-qualification
+PPAP-2025-0278,SUP004,Wiper arm,Level 3,2025-02-05,2025-03-15,38,Approved,Re-qualification
+PPAP-2025-0279,SUP012,Fuel pump module,Level 5,2025-02-05,2025-02-16,11,Approved,Engineering change
+PPAP-2025-0280,SUP002,ECU housing,Level 3,2025-02-07,2025-02-14,7,Approved,Engineering change
+PPAP-2025-0281,SUP001,ECU housing,Level 3,2025-02-08,2025-03-03,23,Interim Approved,New launch
+PPAP-2025-0282,SUP015,Fan shroud,Level 5,2025-02-09,2025-03-11,30,Rejected,Tooling transfer
+PPAP-2025-0283,SUP013,Cooling pump,Level 1,2025-02-10,2025-02-24,14,Approved,New launch
+PPAP-2025-0284,SUP006,Electric seat actuator,Level 1,2025-02-11,2025-04-07,55,Approved,Re-qualification
+PPAP-2025-0285,SUP012,Fan shroud,Level 5,2025-02-12,2025-03-09,25,Approved,Engineering change
+PPAP-2025-0286,SUP007,Fan shroud,Level 3,2025-02-12,2025-02-23,11,Approved,Engineering change
+PPAP-2025-0287,SUP002,Window lift actuator,Level 1,2025-02-12,2025-03-04,20,Approved,New launch
+PPAP-2025-0288,SUP012,Control lever,Level 5,2025-02-12,2025-02-26,14,Approved,New launch
+PPAP-2025-0289,SUP014,Wiper arm,Level 3,2025-02-15,2025-02-27,12,Approved,Tooling transfer
+PPAP-2025-0290,SUP002,Fuel pump module,Level 3,2025-02-16,2025-03-10,22,Approved,Engineering change
+PPAP-2025-0291,SUP007,ECU housing,Level 3,2025-02-18,2025-03-04,14,Approved,Engineering change
+PPAP-2025-0292,SUP009,ECU housing,Level 3,2025-02-18,2025-03-15,25,Approved,New launch
+PPAP-2025-0293,SUP015,Fuel pump module,Level 3,2025-02-19,2025-03-13,22,Interim Approved,Re-qualification
+PPAP-2025-0294,SUP007,Fan shroud,Level 3,2025-02-19,2025-03-12,21,Approved,Engineering change
+PPAP-2025-0295,SUP011,Connector bracket,Level 3,2025-02-21,2025-03-02,9,Approved,Engineering change
+PPAP-2025-0296,SUP002,Electric seat actuator,Level 5,2025-02-23,2025-03-23,28,Approved,Engineering change
+PPAP-2025-0297,SUP009,Engine fan,Level 1,2025-02-23,2025-04-15,51,Approved,New launch
+PPAP-2025-0298,SUP003,Electric seat actuator,Level 3,2025-02-25,2025-03-09,12,Approved,Engineering change
+PPAP-2025-0299,SUP011,Electric seat actuator,Level 5,2025-02-28,2025-03-14,14,Approved,New launch
+PPAP-2025-0300,SUP007,ECU housing,Level 3,2025-03-01,2025-03-25,24,Approved,Re-qualification
+PPAP-2025-0301,SUP003,Fuel pump module,Level 3,2025-03-05,2025-03-19,14,Approved,Re-qualification
+PPAP-2025-0302,SUP006,Connector bracket,Level 3,2025-03-06,2025-03-18,12,Approved,New launch
+PPAP-2025-0303,SUP010,Fan shroud,Level 3,2025-03-07,2025-04-18,42,Rejected,Engineering change
+PPAP-2025-0304,SUP011,Control lever,Level 3,2025-03-08,2025-03-28,20,Approved,Re-qualification
+PPAP-2025-0305,SUP004,Cooling pump,Level 5,2025-03-10,2025-04-25,46,Rejected,Tooling transfer
+PPAP-2025-0306,SUP009,Wiper arm,Level 3,2025-03-10,2025-04-17,38,Approved,Engineering change
+PPAP-2025-0307,SUP003,Fan shroud,Level 3,2025-03-11,2025-03-24,13,Approved,New launch
+PPAP-2025-0308,SUP007,Cooling pump,Level 5,2025-03-12,2025-04-02,21,Approved,Engineering change
+PPAP-2025-0309,SUP001,Fuel pump module,Level 1,2025-03-13,2025-03-30,17,Approved,New launch
+PPAP-2025-0310,SUP002,Window lift actuator,Level 1,2025-03-14,2025-04-12,29,Approved,New launch
+PPAP-2025-0311,SUP014,Fan shroud,Level 1,2025-03-16,2025-03-30,14,Interim Approved,Engineering change
+PPAP-2025-0312,SUP004,Engine fan,Level 3,2025-03-16,2025-04-08,23,Approved,Re-qualification
+PPAP-2025-0313,SUP002,Electric seat actuator,Level 3,2025-03-17,2025-04-11,25,Rejected,New launch
+PPAP-2025-0314,SUP014,Fuel pump module,Level 3,2025-03-17,2025-03-29,12,Interim Approved,Tooling transfer
+PPAP-2025-0315,SUP014,Engine fan,Level 3,2025-03-19,2025-04-06,18,Approved,New launch
+PPAP-2025-0316,SUP012,Electric seat actuator,Level 1,2025-03-20,2025-04-25,36,Approved,Engineering change
+PPAP-2025-0317,SUP009,ECU housing,Level 3,2025-03-21,2025-04-15,25,Interim Approved,Engineering change
+PPAP-2025-0318,SUP001,Window lift actuator,Level 3,2025-03-21,2025-04-03,13,Approved,New launch
+PPAP-2025-0319,SUP013,Fuel pump module,Level 1,2025-03-21,2025-03-26,5,Approved,Re-qualification
+PPAP-2025-0320,SUP009,Connector bracket,Level 1,2025-03-22,2025-05-12,51,Rejected,Tooling transfer
+PPAP-2025-0321,SUP008,Connector bracket,Level 5,2025-03-24,2025-05-03,40,Interim Approved,Tooling transfer
+PPAP-2025-0322,SUP004,Connector bracket,Level 3,2025-03-29,2025-05-09,41,Approved,Engineering change
+PPAP-2025-0323,SUP015,ECU housing,Level 1,2025-03-30,2025-04-24,25,Interim Approved,Engineering change
+PPAP-2025-0324,SUP011,Electric seat actuator,Level 3,2025-03-31,2025-04-21,21,Interim Approved,Engineering change
+PPAP-2025-0325,SUP009,Cooling pump,Level 3,2025-04-02,2025-05-02,30,Interim Approved,New launch
+PPAP-2025-0326,SUP006,Fuel pump module,Level 3,2025-04-04,2025-05-03,29,Rejected,New launch
+PPAP-2025-0327,SUP015,Control lever,Level 3,2025-04-04,2025-05-05,31,Rejected,Engineering change
+PPAP-2025-0328,SUP008,Connector bracket,Level 5,2025-04-06,2025-05-17,41,Interim Approved,New launch
+PPAP-2025-0329,SUP007,Electric seat actuator,Level 1,2025-04-06,2025-04-22,16,Approved,Engineering change
+PPAP-2025-0330,SUP012,Wiper arm,Level 3,2025-04-13,2025-05-09,26,Approved,Engineering change
+PPAP-2025-0331,SUP005,Control lever,Level 3,2025-04-13,2025-05-21,38,Rejected,New launch
+PPAP-2025-0332,SUP006,Control lever,Level 1,2025-04-14,2025-05-10,26,Approved,Engineering change
+PPAP-2025-0333,SUP002,Electric seat actuator,Level 3,2025-04-15,2025-05-14,29,Approved,Engineering change
+PPAP-2025-0334,SUP009,Fan shroud,Level 3,2025-04-17,2025-05-21,34,Approved,Engineering change
+PPAP-2025-0335,SUP005,ECU housing,Level 3,2025-04-17,2025-04-28,11,Approved,Engineering change
+PPAP-2025-0336,SUP005,Cooling pump,Level 3,2025-04-18,2025-05-12,24,Approved,Engineering change
+PPAP-2025-0337,SUP003,Electric seat actuator,Level 3,2025-04-21,2025-05-04,13,Approved,New launch
+PPAP-2025-0338,SUP002,Wiper arm,Level 3,2025-04-23,2025-05-25,32,Approved,Re-qualification
+PPAP-2025-0339,SUP014,Fuel pump module,Level 5,2025-04-23,2025-05-09,16,Approved,Tooling transfer
+PPAP-2025-0340,SUP012,Electric seat actuator,Level 1,2025-04-25,2025-05-14,19,Approved,New launch
+PPAP-2025-0341,SUP002,Connector bracket,Level 3,2025-04-27,2025-05-23,26,Approved,New launch
+PPAP-2025-0342,SUP001,Engine fan,Level 1,2025-04-27,2025-05-24,27,Approved,New launch
+PPAP-2025-0343,SUP011,Connector bracket,Level 1,2025-05-02,2025-05-19,17,Approved,Engineering change
+PPAP-2025-0344,SUP001,Connector bracket,Level 3,2025-05-03,2025-05-20,17,Rejected,Engineering change
+PPAP-2025-0345,SUP011,Control lever,Level 5,2025-05-03,2025-05-11,8,Approved,Engineering change
+PPAP-2025-0346,SUP005,Fan shroud,Level 3,2025-05-04,2025-06-15,42,Approved,New launch
+PPAP-2025-0347,SUP007,Cooling pump,Level 1,2025-05-04,2025-05-30,26,Approved,Engineering change
+PPAP-2025-0348,SUP006,Fuel pump module,Level 3,2025-05-05,2025-06-17,43,Approved,Engineering change
+PPAP-2025-0349,SUP010,Cooling pump,Level 3,2025-05-06,2025-05-29,23,Interim Approved,Tooling transfer
+PPAP-2025-0350,SUP007,Cooling pump,Level 1,2025-05-08,2025-06-03,26,Approved,New launch
+PPAP-2025-0351,SUP011,Wiper arm,Level 5,2025-05-12,2025-05-28,16,Interim Approved,Engineering change
+PPAP-2025-0352,SUP003,Wiper arm,Level 3,2025-05-13,2025-05-20,7,Rejected,New launch
+PPAP-2025-0353,SUP002,Fan shroud,Level 3,2025-05-13,2025-06-06,24,Approved,New launch
+PPAP-2025-0354,SUP002,Connector bracket,Level 1,2025-05-15,2025-06-09,25,Approved,New launch
+PPAP-2025-0355,SUP006,Fuel pump module,Level 3,2025-05-16,2025-06-19,34,Approved,Engineering change
+PPAP-2025-0356,SUP015,Cooling pump,Level 1,2025-05-18,2025-06-09,22,Approved,New launch
+PPAP-2025-0357,SUP005,Wiper arm,Level 3,2025-05-19,2025-06-27,39,Rejected,Engineering change
+PPAP-2025-0358,SUP014,Cooling pump,Level 3,2025-05-21,2025-06-07,17,Interim Approved,Re-qualification
+PPAP-2025-0359,SUP003,Engine fan,Level 3,2025-05-24,2025-06-05,12,Interim Approved,Tooling transfer
+PPAP-2025-0360,SUP008,Electric seat actuator,Level 1,2025-05-25,2025-07-23,59,Interim Approved,Engineering change
+PPAP-2025-0361,SUP003,Electric seat actuator,Level 3,2025-05-25,2025-06-05,11,Interim Approved,Re-qualification
+PPAP-2025-0362,SUP006,Electric seat actuator,Level 1,2025-05-27,2025-07-01,35,Approved,Engineering change
+PPAP-2025-0363,SUP007,Fuel pump module,Level 5,2025-05-27,2025-06-20,24,Approved,New launch
+PPAP-2025-0364,SUP013,Control lever,Level 3,2025-05-27,2025-06-10,14,Approved,Engineering change
+PPAP-2025-0365,SUP008,Fuel pump module,Level 3,2025-05-30,2025-07-08,39,Approved,Engineering change
+PPAP-2025-0366,SUP009,Engine fan,Level 5,2025-06-02,2025-07-22,50,Approved,Re-qualification
+PPAP-2025-0367,SUP008,Connector bracket,Level 3,2025-06-05,2025-07-04,29,Approved,New launch
+PPAP-2025-0368,SUP004,Control lever,Level 5,2025-06-05,2025-07-24,49,Approved,New launch
+PPAP-2025-0369,SUP006,Fan shroud,Level 3,2025-06-08,2025-07-03,25,Approved,Re-qualification
+PPAP-2025-0370,SUP001,Electric seat actuator,Level 3,2025-06-09,2025-06-26,17,Approved,New launch
+PPAP-2025-0371,SUP006,Connector bracket,Level 3,2025-06-10,2025-07-15,35,Approved,Engineering change
+PPAP-2025-0372,SUP006,Wiper arm,Level 1,2025-06-10,2025-07-05,25,Approved,Tooling transfer
+PPAP-2025-0373,SUP012,Engine fan,Level 5,2025-06-11,2025-07-15,34,Approved,New launch
+PPAP-2025-0374,SUP014,Window lift actuator,Level 3,2025-06-12,2025-06-18,6,Rejected,Engineering change
+PPAP-2025-0375,SUP011,Engine fan,Level 5,2025-06-15,2025-06-29,14,Approved,New launch
+PPAP-2025-0376,SUP008,Wiper arm,Level 3,2025-06-15,2025-07-31,46,Approved,New launch
+PPAP-2025-0377,SUP009,ECU housing,Level 3,2025-06-16,2025-07-01,15,Rejected,Re-qualification
+PPAP-2025-0378,SUP008,Window lift actuator,Level 3,2025-06-18,2025-07-21,33,Approved,New launch
+PPAP-2025-0379,SUP013,Electric seat actuator,Level 3,2025-06-19,2025-06-26,7,Approved,New launch
+PPAP-2025-0380,SUP011,Fuel pump module,Level 3,2025-06-24,2025-07-10,16,Approved,Engineering change
+PPAP-2025-0381,SUP015,Wiper arm,Level 5,2025-06-25,2025-07-26,31,Interim Approved,Engineering change
+PPAP-2025-0382,SUP002,Connector bracket,Level 3,2025-06-26,2025-07-26,30,Approved,Engineering change
+PPAP-2025-0383,SUP009,Connector bracket,Level 3,2025-06-27,2025-08-18,52,Approved,New launch
+PPAP-2025-0384,SUP011,Wiper arm,Level 5,2025-07-02,2025-07-17,15,Interim Approved,Engineering change
+PPAP-2025-0385,SUP014,ECU housing,Level 5,2025-07-02,2025-07-17,15,Interim Approved,New launch
+PPAP-2025-0386,SUP002,Fan shroud,Level 3,2025-07-07,2025-08-08,32,Rejected,Engineering change
+PPAP-2025-0387,SUP001,Window lift actuator,Level 3,2025-07-07,2025-07-17,10,Approved,New launch
+PPAP-2025-0388,SUP008,Control lever,Level 3,2025-07-08,2025-08-15,38,Approved,Tooling transfer
+PPAP-2025-0389,SUP003,Wiper arm,Level 3,2025-07-09,2025-07-15,6,Approved,New launch
+PPAP-2025-0390,SUP002,Wiper arm,Level 3,2025-07-09,2025-07-29,20,Approved,Tooling transfer
+PPAP-2025-0391,SUP005,Wiper arm,Level 3,2025-07-12,2025-08-16,35,Approved,New launch
+PPAP-2025-0392,SUP012,Fan shroud,Level 5,2025-07-13,2025-08-08,26,Approved,Tooling transfer
+PPAP-2025-0393,SUP013,Electric seat actuator,Level 3,2025-07-13,2025-07-24,11,Approved,New launch
+PPAP-2025-0394,SUP005,Window lift actuator,Level 5,2025-07-13,2025-08-09,27,Approved,New launch
+PPAP-2025-0395,SUP015,Electric seat actuator,Level 3,2025-07-13,2025-08-19,37,Approved,Tooling transfer
+PPAP-2025-0396,SUP005,Fuel pump module,Level 3,2025-07-15,2025-08-31,47,Interim Approved,Engineering change
+PPAP-2025-0397,SUP003,Cooling pump,Level 3,2025-07-15,2025-07-31,16,Approved,Engineering change
+PPAP-2025-0398,SUP004,Control lever,Level 1,2025-07-18,2025-09-17,61,Interim Approved,New launch
+PPAP-2025-0399,SUP011,Electric seat actuator,Level 3,2025-07-20,2025-08-11,22,Approved,New launch
+PPAP-2025-0400,SUP015,Control lever,Level 1,2025-07-20,2025-08-12,23,Approved,New launch
+PPAP-2025-0401,SUP009,Control lever,Level 3,2025-07-27,2025-08-01,5,Approved,Re-qualification
+PPAP-2025-0402,SUP014,Engine fan,Level 1,2025-07-29,2025-08-12,14,Rejected,Re-qualification
+PPAP-2025-0403,SUP015,Electric seat actuator,Level 3,2025-07-29,2025-09-11,44,Rejected,Engineering change
+PPAP-2025-0404,SUP012,Fuel pump module,Level 3,2025-07-31,2025-08-27,27,Approved,Engineering change
+PPAP-2025-0405,SUP007,Cooling pump,Level 3,2025-08-04,2025-09-01,28,Approved,New launch
+PPAP-2025-0406,SUP013,Control lever,Level 3,2025-08-05,2025-08-21,16,Approved,Re-qualification
+PPAP-2025-0407,SUP002,Fuel pump module,Level 1,2025-08-06,2025-09-04,29,Approved,Re-qualification
+PPAP-2025-0408,SUP003,Connector bracket,Level 1,2025-08-06,2025-08-21,15,Interim Approved,Engineering change
+PPAP-2025-0409,SUP006,Wiper arm,Level 3,2025-08-07,2025-08-18,11,Approved,Tooling transfer
+PPAP-2025-0410,SUP015,Fuel pump module,Level 3,2025-08-08,2025-08-31,23,Approved,Engineering change
+PPAP-2025-0411,SUP004,Wiper arm,Level 3,2025-08-08,2025-09-11,34,Rejected,New launch
+PPAP-2025-0412,SUP008,Fan shroud,Level 5,2025-08-08,2025-09-20,43,Approved,Engineering change
+PPAP-2025-0413,SUP014,Connector bracket,Level 3,2025-08-09,2025-08-22,13,Approved,New launch
+PPAP-2025-0414,SUP006,Fuel pump module,Level 5,2025-08-10,2025-09-07,28,Approved,New launch
+PPAP-2025-0415,SUP002,Window lift actuator,Level 5,2025-08-12,2025-09-06,25,Approved,Engineering change
+PPAP-2025-0416,SUP002,Electric seat actuator,Level 3,2025-08-13,2025-09-02,20,Interim Approved,Re-qualification
+PPAP-2025-0417,SUP014,Wiper arm,Level 3,2025-08-14,2025-08-21,7,Approved,Tooling transfer
+PPAP-2025-0418,SUP001,Fan shroud,Level 3,2025-08-14,2025-09-03,20,Approved,Tooling transfer
+PPAP-2025-0419,SUP008,Window lift actuator,Level 3,2025-08-15,2025-09-02,18,Approved,Engineering change
+PPAP-2025-0420,SUP001,Electric seat actuator,Level 3,2025-08-20,2025-09-04,15,Approved,Engineering change
+PPAP-2025-0421,SUP010,Wiper arm,Level 3,2025-08-20,2025-09-25,36,Interim Approved,Engineering change
+PPAP-2025-0422,SUP001,ECU housing,Level 3,2025-08-23,2025-08-30,7,Approved,Re-qualification
+PPAP-2025-0423,SUP009,ECU housing,Level 3,2025-08-24,2025-09-19,26,Interim Approved,Engineering change
+PPAP-2025-0424,SUP014,Control lever,Level 3,2025-08-26,2025-09-16,21,Approved,Engineering change
+PPAP-2025-0425,SUP013,Control lever,Level 3,2025-08-27,2025-09-01,5,Approved,New launch
+PPAP-2025-0426,SUP012,Window lift actuator,Level 5,2025-08-28,2025-09-29,32,Approved,Engineering change
+PPAP-2025-0427,SUP015,Fuel pump module,Level 3,2025-08-28,2025-09-12,15,Approved,Engineering change
+PPAP-2025-0428,SUP013,Wiper arm,Level 3,2025-08-31,2025-09-07,7,Approved,Tooling transfer
+PPAP-2025-0429,SUP003,Engine fan,Level 5,2025-09-04,2025-09-19,15,Rejected,Engineering change
+PPAP-2025-0430,SUP015,Fan shroud,Level 3,2025-09-04,2025-10-11,37,Rejected,New launch
+PPAP-2025-0431,SUP010,ECU housing,Level 3,2025-09-06,2025-10-17,41,Rejected,New launch
+PPAP-2025-0432,SUP009,Connector bracket,Level 3,2025-09-06,2025-10-03,27,Approved,Engineering change
+PPAP-2025-0433,SUP011,Engine fan,Level 3,2025-09-09,2025-09-15,6,Approved,Re-qualification
+PPAP-2025-0434,SUP006,Window lift actuator,Level 3,2025-09-09,2025-09-29,20,Approved,New launch
+PPAP-2025-0435,SUP006,Fan shroud,Level 5,2025-09-12,2025-10-21,39,Interim Approved,New launch
+PPAP-2025-0436,SUP015,Connector bracket,Level 3,2025-09-13,2025-10-19,36,Rejected,Engineering change
+PPAP-2025-0437,SUP010,ECU housing,Level 5,2025-09-17,2025-10-28,41,Approved,Engineering change
+PPAP-2025-0438,SUP003,Wiper arm,Level 3,2025-09-22,2025-10-03,11,Approved,Engineering change
+PPAP-2025-0439,SUP001,Engine fan,Level 3,2025-09-24,2025-10-18,24,Approved,Engineering change
+PPAP-2025-0440,SUP001,Connector bracket,Level 3,2025-09-24,2025-10-07,13,Approved,Engineering change
+PPAP-2025-0441,SUP004,Engine fan,Level 3,2025-09-26,2025-10-29,33,Rejected,Engineering change
+PPAP-2025-0442,SUP015,Electric seat actuator,Level 1,2025-09-26,2025-10-28,32,Approved,Engineering change
+PPAP-2025-0443,SUP010,ECU housing,Level 3,2025-09-28,2025-11-16,49,Approved,Engineering change
+PPAP-2025-0444,SUP008,Electric seat actuator,Level 5,2025-09-29,2025-11-28,60,Interim Approved,New launch
+PPAP-2025-0445,SUP010,Fan shroud,Level 3,2025-09-29,2025-11-01,33,Rejected,Engineering change
+PPAP-2025-0446,SUP004,ECU housing,Level 5,2025-10-02,2025-11-25,54,Approved,New launch
+PPAP-2025-0447,SUP005,Control lever,Level 1,2025-10-03,2025-11-18,46,Approved,Engineering change
+PPAP-2025-0448,SUP014,Cooling pump,Level 3,2025-10-06,2025-10-18,12,Approved,Re-qualification
+PPAP-2025-0449,SUP010,Control lever,Level 3,2025-10-10,2025-11-10,31,Approved,Tooling transfer
+PPAP-2025-0450,SUP008,Electric seat actuator,Level 5,2025-10-11,2025-11-26,46,Rejected,Engineering change
+PPAP-2025-0451,SUP013,ECU housing,Level 1,2025-10-11,2025-10-25,14,Interim Approved,New launch
+PPAP-2025-0452,SUP007,ECU housing,Level 3,2025-10-11,2025-10-20,9,Approved,Re-qualification
+PPAP-2025-0453,SUP014,Control lever,Level 3,2025-10-11,2025-10-16,5,Interim Approved,Engineering change
+PPAP-2025-0454,SUP005,Window lift actuator,Level 5,2025-10-13,2025-11-24,42,Rejected,Re-qualification
+PPAP-2025-0455,SUP014,Connector bracket,Level 3,2025-10-13,2025-11-04,22,Rejected,Engineering change
+PPAP-2025-0456,SUP011,Fan shroud,Level 3,2025-10-13,2025-10-19,6,Approved,New launch
+PPAP-2025-0457,SUP009,Engine fan,Level 3,2025-10-18,2025-11-25,38,Interim Approved,Engineering change
+PPAP-2025-0458,SUP004,Engine fan,Level 1,2025-10-19,2025-12-06,48,Rejected,Engineering change
+PPAP-2025-0459,SUP013,Wiper arm,Level 3,2025-10-20,2025-11-01,12,Interim Approved,Re-qualification
+PPAP-2025-0460,SUP006,Wiper arm,Level 3,2025-10-20,2025-11-24,35,Interim Approved,Tooling transfer
+PPAP-2025-0461,SUP003,Engine fan,Level 3,2025-10-22,2025-11-05,14,Interim Approved,Tooling transfer
+PPAP-2025-0462,SUP004,Cooling pump,Level 3,2025-10-22,2025-11-04,13,Approved,Re-qualification
+PPAP-2025-0463,SUP011,Cooling pump,Level 3,2025-10-26,2025-11-11,16,Approved,Re-qualification
+PPAP-2025-0464,SUP006,Control lever,Level 3,2025-10-30,2025-12-10,41,Interim Approved,Engineering change
+PPAP-2025-0465,SUP009,Engine fan,Level 3,2025-10-31,2025-12-01,31,Approved,Engineering change
+PPAP-2025-0466,SUP002,Engine fan,Level 3,2025-11-05,2025-11-24,19,Interim Approved,Re-qualification
+PPAP-2025-0467,SUP009,Control lever,Level 3,2025-11-05,2025-12-13,38,Interim Approved,Engineering change
+PPAP-2025-0468,SUP006,Fuel pump module,Level 3,2025-11-05,2025-11-28,23,Approved,Tooling transfer
+PPAP-2025-0469,SUP006,Cooling pump,Level 5,2025-11-06,2025-12-08,32,Rejected,New launch
+PPAP-2025-0470,SUP013,Control lever,Level 5,2025-11-06,2025-11-16,10,Approved,Engineering change
+PPAP-2025-0471,SUP011,Fan shroud,Level 3,2025-11-08,2025-11-23,15,Interim Approved,Engineering change
+PPAP-2025-0472,SUP008,Control lever,Level 3,2025-11-08,2026-01-06,59,Approved,Tooling transfer
+PPAP-2025-0473,SUP002,Fuel pump module,Level 3,2025-11-10,2025-11-20,10,Rejected,Engineering change
+PPAP-2025-0474,SUP008,Connector bracket,Level 3,2025-11-11,2025-12-23,42,Interim Approved,Re-qualification
+PPAP-2025-0475,SUP004,Cooling pump,Level 3,2025-11-11,2025-12-07,26,Approved,Re-qualification
+PPAP-2025-0476,SUP005,Window lift actuator,Level 1,2025-11-16,2025-12-10,24,Rejected,New launch
+PPAP-2025-0477,SUP003,Fan shroud,Level 3,2025-11-17,2025-12-04,17,Approved,New launch
+PPAP-2025-0478,SUP001,Fan shroud,Level 1,2025-11-18,2025-12-12,24,Approved,Re-qualification
+PPAP-2025-0479,SUP009,Window lift actuator,Level 3,2025-11-18,2025-12-21,33,Approved,New launch
+PPAP-2025-0480,SUP012,Window lift actuator,Level 3,2025-11-19,2025-11-29,10,Approved,Engineering change
+PPAP-2025-0481,SUP008,Control lever,Level 3,2025-11-19,2025-12-14,25,Rejected,Re-qualification
+PPAP-2025-0482,SUP008,ECU housing,Level 3,2025-11-21,2026-01-04,44,Approved,Tooling transfer
+PPAP-2025-0483,SUP010,Window lift actuator,Level 5,2025-11-22,2025-12-13,21,Approved,Engineering change
+PPAP-2025-0484,SUP002,ECU housing,Level 1,2025-11-22,2025-12-21,29,Rejected,Re-qualification
+PPAP-2025-0485,SUP004,Control lever,Level 3,2025-11-23,2026-01-04,42,Interim Approved,Engineering change
+PPAP-2025-0486,SUP009,Fan shroud,Level 1,2025-11-25,2026-01-01,37,Approved,New launch
+PPAP-2025-0487,SUP002,ECU housing,Level 3,2025-11-25,2026-01-01,37,Approved,Engineering change
+PPAP-2025-0488,SUP011,Fan shroud,Level 3,2025-11-26,2025-12-07,11,Approved,New launch
+PPAP-2025-0489,SUP007,Wiper arm,Level 3,2025-11-30,2025-12-11,11,Interim Approved,Engineering change
+PPAP-2025-0490,SUP013,Cooling pump,Level 5,2025-11-30,2025-12-07,7,Interim Approved,Engineering change
+PPAP-2025-0491,SUP010,Electric seat actuator,Level 3,2025-11-30,2026-01-08,39,Approved,New launch
+PPAP-2025-0492,SUP009,Wiper arm,Level 1,2025-12-02,2026-01-19,48,Approved,Re-qualification
+PPAP-2025-0493,SUP004,ECU housing,Level 3,2025-12-02,2026-01-09,38,Approved,New launch
+PPAP-2025-0494,SUP012,Fan shroud,Level 3,2025-12-03,2025-12-17,14,Rejected,Engineering change
+PPAP-2025-0495,SUP010,Electric seat actuator,Level 3,2025-12-03,2025-12-28,25,Rejected,Engineering change
+PPAP-2025-0496,SUP004,Fuel pump module,Level 3,2025-12-07,2026-01-02,26,Interim Approved,Engineering change
+PPAP-2025-0497,SUP009,Engine fan,Level 3,2025-12-08,2026-01-24,47,Interim Approved,Engineering change
+PPAP-2025-0498,SUP008,Fuel pump module,Level 3,2025-12-09,2026-02-18,71,Approved,Engineering change
+PPAP-2025-0499,SUP009,Engine fan,Level 3,2025-12-10,2026-02-01,53,Approved,New launch
+PPAP-2025-0500,SUP009,Electric seat actuator,Level 3,2025-12-10,2026-01-16,37,Approved,Engineering change
+PPAP-2025-0501,SUP005,Control lever,Level 5,2025-12-10,2026-01-21,42,Interim Approved,Engineering change
+PPAP-2025-0502,SUP015,Engine fan,Level 3,2025-12-10,2026-01-15,36,Approved,New launch
+PPAP-2025-0503,SUP008,Window lift actuator,Level 3,2025-12-10,2026-01-14,35,Approved,Engineering change
+PPAP-2025-0504,SUP005,Connector bracket,Level 3,2025-12-13,2026-01-11,29,Interim Approved,New launch
+PPAP-2025-0505,SUP007,Fuel pump module,Level 3,2025-12-13,2025-12-29,16,Approved,Engineering change
+PPAP-2025-0506,SUP005,Fan shroud,Level 1,2025-12-14,2026-01-11,28,Approved,Engineering change
+PPAP-2025-0507,SUP005,Cooling pump,Level 1,2025-12-18,2026-01-23,36,Approved,Tooling transfer
+PPAP-2025-0508,SUP006,Window lift actuator,Level 5,2025-12-21,2026-01-22,32,Approved,Engineering change
+PPAP-2025-0509,SUP010,ECU housing,Level 5,2025-12-25,2026-02-21,58,Approved,New launch
+PPAP-2025-0510,SUP014,ECU housing,Level 5,2025-12-28,2026-01-13,16,Approved,New launch
+PPAP-2025-0511,SUP007,Connector bracket,Level 5,2025-12-29,2026-01-18,20,Approved,New launch
+PPAP-2025-0512,SUP007,Connector bracket,Level 1,2025-12-29,2026-01-13,15,Approved,Engineering change
+PPAP-2025-0513,SUP003,ECU housing,Level 3,2025-12-29,2026-01-13,15,Approved,Re-qualification
+PPAP-2025-0514,SUP014,Electric seat actuator,Level 1,2025-12-31,2026-01-10,10,Rejected,New launch
+PPAP-2026-0515,SUP002,ECU housing,Level 3,2026-01-01,2026-01-19,18,Interim Approved,Engineering change
+PPAP-2026-0516,SUP008,Cooling pump,Level 3,2026-01-01,2026-01-25,24,Interim Approved,Engineering change
+PPAP-2026-0517,SUP011,Control lever,Level 3,2026-01-02,2026-01-20,18,Approved,New launch
+PPAP-2026-0518,SUP014,Fuel pump module,Level 3,2026-01-03,2026-01-17,14,Rejected,Re-qualification
+PPAP-2026-0519,SUP015,Window lift actuator,Level 3,2026-01-04,2026-02-06,33,Approved,Re-qualification
+PPAP-2026-0520,SUP001,Connector bracket,Level 3,2026-01-04,2026-01-20,16,Approved,New launch
+PPAP-2026-0521,SUP008,Connector bracket,Level 1,2026-01-04,2026-02-07,34,Approved,New launch
+PPAP-2026-0522,SUP005,Fuel pump module,Level 5,2026-01-05,2026-01-27,22,Interim Approved,New launch
+PPAP-2026-0523,SUP012,Fan shroud,Level 3,2026-01-05,2026-01-29,24,Approved,New launch
+PPAP-2026-0524,SUP003,Fan shroud,Level 3,2026-01-08,2026-01-23,15,Approved,New launch
+PPAP-2026-0525,SUP004,Connector bracket,Level 3,2026-01-11,2026-02-14,34,Rejected,Engineering change
+PPAP-2026-0526,SUP004,Wiper arm,Level 3,2026-01-11,2026-02-14,34,Interim Approved,New launch
+PPAP-2026-0527,SUP011,ECU housing,Level 1,2026-01-12,2026-02-05,24,Approved,Engineering change
+PPAP-2026-0528,SUP014,Window lift actuator,Level 3,2026-01-14,2026-01-22,8,Interim Approved,New launch
+PPAP-2026-0529,SUP014,Fan shroud,Level 3,2026-01-15,2026-01-30,15,Approved,New launch
+PPAP-2026-0530,SUP013,Connector bracket,Level 3,2026-01-17,2026-02-01,15,Interim Approved,New launch
+PPAP-2026-0531,SUP005,Wiper arm,Level 3,2026-01-18,2026-02-28,41,Interim Approved,New launch
+PPAP-2026-0532,SUP005,Electric seat actuator,Level 5,2026-01-19,2026-02-16,28,Approved,Re-qualification
+PPAP-2026-0533,SUP007,ECU housing,Level 5,2026-01-20,2026-02-11,22,Approved,New launch
+PPAP-2026-0534,SUP009,Cooling pump,Level 3,2026-01-22,2026-02-23,32,Interim Approved,Engineering change
+PPAP-2026-0535,SUP003,Cooling pump,Level 5,2026-01-23,2026-02-04,12,Approved,Engineering change
+PPAP-2026-0536,SUP010,Cooling pump,Level 3,2026-01-24,2026-02-28,35,Approved,New launch
+PPAP-2026-0537,SUP003,Connector bracket,Level 1,2026-01-24,2026-02-02,9,Approved,New launch
+PPAP-2026-0538,SUP009,ECU housing,Level 3,2026-01-25,2026-03-01,35,Rejected,Engineering change
+PPAP-2026-0539,SUP006,Wiper arm,Level 3,2026-01-26,2026-02-13,18,Approved,Tooling transfer
+PPAP-2026-0540,SUP012,Fuel pump module,Level 3,2026-01-29,2026-02-20,22,Approved,Re-qualification
+PPAP-2026-0541,SUP010,ECU housing,Level 3,2026-02-01,2026-02-28,27,Approved,New launch
+PPAP-2026-0542,SUP004,Fan shroud,Level 5,2026-02-04,2026-03-16,40,Approved,Engineering change
+PPAP-2026-0543,SUP002,Engine fan,Level 3,2026-02-04,2026-02-23,19,Approved,Engineering change
+PPAP-2026-0544,SUP005,Electric seat actuator,Level 3,2026-02-10,2026-03-21,39,Rejected,Re-qualification
+PPAP-2026-0545,SUP001,Connector bracket,Level 3,2026-02-10,2026-02-23,13,Approved,New launch
+PPAP-2026-0546,SUP004,Fuel pump module,Level 3,2026-02-16,2026-04-16,59,Interim Approved,Re-qualification
+PPAP-2026-0547,SUP009,Cooling pump,Level 3,2026-02-20,2026-03-21,29,Approved,Tooling transfer
+PPAP-2026-0548,SUP006,Control lever,Level 5,2026-02-23,2026-03-21,26,Rejected,Engineering change
+PPAP-2026-0549,SUP014,Electric seat actuator,Level 3,2026-02-24,2026-03-06,10,Approved,New launch
+PPAP-2026-0550,SUP015,Connector bracket,Level 3,2026-02-25,2026-03-13,16,Rejected,Engineering change
+PPAP-2026-0551,SUP001,ECU housing,Level 1,2026-02-25,2026-03-06,9,Approved,Tooling transfer
+PPAP-2026-0552,SUP005,Cooling pump,Level 3,2026-02-27,2026-03-26,27,Interim Approved,Engineering change
+PPAP-2026-0553,SUP008,ECU housing,Level 3,2026-02-27,2026-03-26,27,Interim Approved,New launch
+PPAP-2026-0554,SUP010,Window lift actuator,Level 3,2026-03-01,2026-04-07,37,Approved,New launch
+PPAP-2026-0555,SUP011,Window lift actuator,Level 3,2026-03-03,2026-03-13,10,Approved,Tooling transfer
+PPAP-2026-0556,SUP002,Engine fan,Level 1,2026-03-05,2026-03-26,21,Approved,Engineering change
+PPAP-2026-0557,SUP008,Wiper arm,Level 3,2026-03-07,2026-05-13,67,Approved,Engineering change
+PPAP-2026-0558,SUP001,Cooling pump,Level 1,2026-03-07,2026-03-25,18,Rejected,Re-qualification
+PPAP-2026-0559,SUP007,ECU housing,Level 5,2026-03-09,2026-03-18,9,Approved,New launch
+PPAP-2026-0560,SUP006,Electric seat actuator,Level 1,2026-03-09,2026-03-23,14,Approved,New launch
+PPAP-2026-0561,SUP008,Cooling pump,Level 5,2026-03-12,2026-04-21,40,Approved,New launch
+PPAP-2026-0562,SUP012,Connector bracket,Level 3,2026-03-18,2026-04-03,16,Approved,Engineering change
+PPAP-2026-0563,SUP001,ECU housing,Level 1,2026-03-18,2026-04-08,21,Approved,Engineering change
+PPAP-2026-0564,SUP005,Connector bracket,Level 5,2026-03-19,2026-04-10,22,Interim Approved,Engineering change
+PPAP-2026-0565,SUP006,Electric seat actuator,Level 1,2026-03-20,2026-04-28,39,Approved,Engineering change
+PPAP-2026-0566,SUP010,Connector bracket,Level 1,2026-03-21,2026-04-23,33,Approved,New launch
+PPAP-2026-0567,SUP015,Electric seat actuator,Level 1,2026-03-23,2026-05-06,44,Rejected,New launch
+PPAP-2026-0568,SUP005,Window lift actuator,Level 3,2026-03-24,2026-04-19,26,Interim Approved,Engineering change
+PPAP-2026-0569,SUP012,Cooling pump,Level 1,2026-03-25,2026-04-22,28,Approved,Tooling transfer
+PPAP-2026-0570,SUP009,Wiper arm,Level 3,2026-03-26,2026-05-05,40,Rejected,Tooling transfer
+PPAP-2026-0571,SUP013,Engine fan,Level 1,2026-03-26,2026-04-06,11,Approved,New launch
+PPAP-2026-0572,SUP010,Cooling pump,Level 3,2026-03-26,2026-05-08,43,Interim Approved,New launch
+PPAP-2026-0573,SUP013,Wiper arm,Level 3,2026-03-27,2026-04-04,8,Approved,New launch
+PPAP-2026-0574,SUP013,Fuel pump module,Level 3,2026-03-28,2026-04-10,13,Interim Approved,New launch
+PPAP-2026-0575,SUP012,Control lever,Level 3,2026-03-29,2026-04-14,16,Approved,Engineering change
+PPAP-2026-0576,SUP003,Engine fan,Level 1,2026-03-29,2026-04-19,21,Approved,New launch
+PPAP-2026-0577,SUP001,Window lift actuator,Level 3,2026-04-02,2026-04-21,19,Approved,New launch
+PPAP-2026-0578,SUP010,Control lever,Level 3,2026-04-03,2026-04-26,23,Rejected,New launch
+PPAP-2026-0579,SUP014,Fan shroud,Level 5,2026-04-04,2026-04-21,17,Interim Approved,Engineering change
+PPAP-2026-0580,SUP002,Connector bracket,Level 3,2026-04-05,2026-05-07,32,Approved,New launch
+PPAP-2026-0581,SUP005,Control lever,Level 3,2026-04-05,2026-04-19,14,Approved,New launch
+PPAP-2026-0582,SUP001,Electric seat actuator,Level 3,2026-04-06,2026-04-17,11,Approved,New launch
+PPAP-2026-0583,SUP001,Fuel pump module,Level 5,2026-04-07,2026-04-18,11,Interim Approved,New launch
+PPAP-2026-0584,SUP015,Connector bracket,Level 3,2026-04-07,2026-04-24,17,Interim Approved,Engineering change
+PPAP-2026-0585,SUP009,Control lever,Level 3,2026-04-07,2026-05-25,48,Approved,New launch
+PPAP-2026-0586,SUP010,ECU housing,Level 1,2026-04-09,2026-05-16,37,Approved,New launch
+PPAP-2026-0587,SUP013,ECU housing,Level 1,2026-04-15,2026-04-25,10,Approved,Engineering change
+PPAP-2026-0588,SUP007,Cooling pump,Level 3,2026-04-16,2026-04-27,11,Approved,Engineering change
+PPAP-2026-0589,SUP001,Connector bracket,Level 3,2026-04-16,2026-05-02,16,Approved,New launch
+PPAP-2026-0590,SUP003,Connector bracket,Level 5,2026-04-20,2026-04-28,8,Approved,Engineering change
+PPAP-2026-0591,SUP006,Electric seat actuator,Level 3,2026-04-20,2026-05-06,16,Approved,New launch
+PPAP-2026-0592,SUP002,Connector bracket,Level 3,2026-04-21,2026-05-12,21,Approved,New launch
+PPAP-2026-0593,SUP008,Electric seat actuator,Level 1,2026-04-22,2026-05-15,23,Approved,New launch
+PPAP-2026-0594,SUP005,Electric seat actuator,Level 3,2026-04-25,2026-05-27,32,Interim Approved,Engineering change
+PPAP-2026-0595,SUP004,Control lever,Level 3,2026-04-25,2026-05-30,35,Rejected,New launch
+PPAP-2026-0596,SUP002,Connector bracket,Level 3,2026-04-26,2026-05-18,22,Approved,Engineering change
+PPAP-2026-0597,SUP003,Cooling pump,Level 3,2026-04-26,2026-05-06,10,Interim Approved,Engineering change
+PPAP-2026-0598,SUP003,Cooling pump,Level 1,2026-04-27,2026-05-06,9,Approved,Engineering change
+PPAP-2026-0599,SUP007,ECU housing,Level 3,2026-04-28,2026-05-12,14,Approved,Engineering change
+PPAP-2026-0600,SUP014,Electric seat actuator,Level 3,2026-04-29,2026-05-04,5,Approved,Engineering change
+PPAP-2026-0601,SUP005,Cooling pump,Level 3,2026-04-29,2026-05-23,24,Approved,Engineering change
+PPAP-2026-0602,SUP013,Cooling pump,Level 3,2026-05-02,2026-05-10,8,Approved,New launch
+PPAP-2026-0603,SUP011,Cooling pump,Level 1,2026-05-02,2026-05-12,10,Approved,Engineering change
+PPAP-2026-0604,SUP001,Control lever,Level 1,2026-05-03,2026-05-16,13,Interim Approved,Engineering change
+PPAP-2026-0605,SUP011,Engine fan,Level 3,2026-05-04,2026-05-19,15,Rejected,Tooling transfer
+PPAP-2026-0606,SUP001,Fuel pump module,Level 3,2026-05-04,2026-06-05,32,Rejected,New launch
+PPAP-2026-0607,SUP009,ECU housing,Level 3,2026-05-04,2026-06-03,30,Rejected,New launch
+PPAP-2026-0608,SUP014,Window lift actuator,Level 1,2026-05-07,2026-05-25,18,Rejected,Engineering change
+PPAP-2026-0609,SUP013,Connector bracket,Level 3,2026-05-08,2026-05-21,13,Approved,Engineering change
+PPAP-2026-0610,SUP013,Electric seat actuator,Level 5,2026-05-10,2026-05-23,13,Approved,Re-qualification
+PPAP-2026-0611,SUP013,Control lever,Level 3,2026-05-13,2026-05-22,9,Approved,New launch
+PPAP-2026-0612,SUP012,ECU housing,Level 1,2026-05-16,2026-06-08,23,Approved,New launch
+PPAP-2026-0613,SUP010,Fuel pump module,Level 1,2026-05-18,2026-06-02,15,Interim Approved,Re-qualification
+PPAP-2026-0614,SUP005,Control lever,Level 3,2026-05-22,2026-06-05,14,Interim Approved,New launch
+PPAP-2026-0615,SUP006,Fan shroud,Level 5,2026-05-24,,,In Review,Tooling transfer
+PPAP-2026-0616,SUP007,Control lever,Level 5,2026-05-25,2026-06-08,14,Approved,New launch
+PPAP-2026-0617,SUP012,Electric seat actuator,Level 3,2026-05-25,,,In Review,New launch
+PPAP-2026-0618,SUP007,Electric seat actuator,Level 1,2026-05-27,2026-06-01,5,Approved,New launch
+PPAP-2026-0619,SUP014,Cooling pump,Level 3,2026-05-28,2026-06-11,14,Approved,Re-qualification
+PPAP-2026-0620,SUP004,Cooling pump,Level 3,2026-05-30,,,In Review,Engineering change

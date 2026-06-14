@@ -1,0 +1,261 @@
+issue_id,supplier_id,component,defect_category,detection_date,closure_date,closure_days,status,cost_impact_usd,detection_point
+8D-0001,SUP006,Cooling pump,Contamination,2024-01-01,2024-03-03,62,Closed,4144,Production line
+8D-0002,SUP005,Connector bracket,Surface finish defect,2024-01-01,2024-02-14,44,Closed,5316,Incoming inspection
+8D-0003,SUP015,Fuel pump module,Surface finish defect,2024-01-03,2024-02-16,44,Closed,3498,Incoming inspection
+8D-0004,SUP015,Engine fan,Dimensional out of tolerance,2024-01-04,2024-02-12,39,Closed,755,Incoming inspection
+8D-0005,SUP009,Fan shroud,Packaging & labeling error,2024-01-06,2024-01-29,23,Closed,10128,Incoming inspection
+8D-0006,SUP004,ECU housing,Wrong revision delivered,2024-01-15,2024-03-07,52,Closed,7025,Production line
+8D-0007,SUP012,Cooling pump,Packaging & labeling error,2024-01-15,2024-02-16,32,Closed,4939,Incoming inspection
+8D-0008,SUP002,Fan shroud,Missing/erroneous documentation,2024-01-19,2024-03-06,47,Closed,5529,Incoming inspection
+8D-0009,SUP012,Fuel pump module,Functional test failure,2024-01-24,2024-02-04,11,Closed,3098,Customer 0-km
+8D-0010,SUP004,Control lever,Material certification issue,2024-01-27,2024-03-23,56,Closed,1131,Incoming inspection
+8D-0011,SUP013,Connector bracket,Surface finish defect,2024-01-27,2024-02-14,18,Closed,6653,Incoming inspection
+8D-0012,SUP004,Fuel pump module,Dimensional out of tolerance,2024-01-28,2024-03-11,43,Closed,4220,Incoming inspection
+8D-0013,SUP007,Cooling pump,Surface finish defect,2024-01-31,2024-03-17,46,Closed,4616,Production line
+8D-0014,SUP005,Window lift actuator,Contamination,2024-02-04,2024-02-29,25,Closed,3527,Production line
+8D-0015,SUP005,Electric seat actuator,Dimensional out of tolerance,2024-02-10,2024-03-12,31,Closed,2271,Incoming inspection
+8D-0016,SUP002,Wiper arm,Wrong revision delivered,2024-02-12,2024-04-17,65,Closed,9563,Incoming inspection
+8D-0017,SUP009,Wiper arm,Material certification issue,2024-03-02,2024-05-14,73,Closed,5821,Incoming inspection
+8D-0018,SUP001,Fan shroud,Missing/erroneous documentation,2024-03-03,2024-03-10,7,Closed,8199,Incoming inspection
+8D-0019,SUP006,Control lever,Material certification issue,2024-03-06,2024-04-22,47,Closed,7539,Warranty
+8D-0020,SUP011,Engine fan,Contamination,2024-03-07,2024-03-20,13,Closed,5765,Customer 0-km
+8D-0021,SUP008,Fan shroud,Contamination,2024-03-10,2024-04-26,47,Closed,2967,Production line
+8D-0022,SUP015,Fan shroud,Material certification issue,2024-03-12,2024-03-28,16,Closed,3416,Customer 0-km
+8D-0023,SUP009,Connector bracket,Wrong revision delivered,2024-03-22,2024-06-02,72,Closed,3815,Production line
+8D-0024,SUP007,Window lift actuator,Dimensional out of tolerance,2024-04-05,2024-05-08,33,Closed,4746,Incoming inspection
+8D-0025,SUP010,Control lever,Surface finish defect,2024-04-06,2024-05-18,42,Closed,2577,Production line
+8D-0026,SUP007,Control lever,Functional test failure,2024-04-10,2024-05-06,26,Closed,617,Incoming inspection
+8D-0027,SUP015,Window lift actuator,Surface finish defect,2024-04-19,2024-06-05,47,Closed,12613,Incoming inspection
+8D-0028,SUP012,Connector bracket,Surface finish defect,2024-04-23,2024-05-24,31,Closed,5503,Customer 0-km
+8D-0029,SUP015,ECU housing,Contamination,2024-04-30,2024-06-11,42,Closed,17328,Incoming inspection
+8D-0030,SUP011,Control lever,Dimensional out of tolerance,2024-05-03,2024-05-10,7,Closed,8650,Incoming inspection
+8D-0031,SUP008,Window lift actuator,Dimensional out of tolerance,2024-05-03,2024-06-02,30,Closed,1672,Incoming inspection
+8D-0032,SUP006,Connector bracket,Dimensional out of tolerance,2024-05-10,2024-06-17,38,Closed,5636,Production line
+8D-0033,SUP011,Electric seat actuator,Dimensional out of tolerance,2024-05-15,2024-06-09,25,Closed,1864,Incoming inspection
+8D-0034,SUP001,Fuel pump module,Missing/erroneous documentation,2024-05-16,2024-06-10,25,Closed,3799,Production line
+8D-0035,SUP009,Control lever,Dimensional out of tolerance,2024-05-16,2024-06-30,45,Closed,5771,Production line
+8D-0036,SUP005,Fan shroud,Contamination,2024-05-20,2024-07-05,46,Closed,2701,Production line
+8D-0037,SUP001,Cooling pump,Surface finish defect,2024-05-22,2024-06-24,33,Closed,753,Production line
+8D-0038,SUP008,Fan shroud,Functional test failure,2024-05-24,2024-09-03,102,Closed,677,Production line
+8D-0039,SUP010,Wiper arm,Surface finish defect,2024-05-31,2024-07-08,38,Closed,6267,Production line
+8D-0040,SUP009,Wiper arm,Material certification issue,2024-06-01,2024-07-15,44,Closed,4913,Incoming inspection
+8D-0041,SUP007,Connector bracket,Surface finish defect,2024-06-07,2024-07-06,29,Closed,8093,Customer 0-km
+8D-0042,SUP007,Cooling pump,Dimensional out of tolerance,2024-06-11,2024-07-14,33,Closed,1020,Production line
+8D-0043,SUP006,Fan shroud,Functional test failure,2024-06-24,2024-07-21,27,Closed,3468,Production line
+8D-0044,SUP006,Cooling pump,Dimensional out of tolerance,2024-06-24,2024-07-21,27,Closed,2808,Warranty
+8D-0045,SUP001,Cooling pump,Packaging & labeling error,2024-07-03,2024-07-20,17,Closed,6124,Warranty
+8D-0046,SUP001,Wiper arm,Contamination,2024-07-11,2024-07-19,8,Closed,6603,Incoming inspection
+8D-0047,SUP010,Wiper arm,Packaging & labeling error,2024-07-16,2024-08-24,39,Closed,122,Incoming inspection
+8D-0048,SUP003,Fan shroud,Dimensional out of tolerance,2024-07-17,2024-08-03,17,Closed,2867,Production line
+8D-0049,SUP006,Electric seat actuator,Packaging & labeling error,2024-07-20,2024-08-24,35,Closed,4212,Production line
+8D-0050,SUP008,Control lever,Surface finish defect,2024-07-22,2024-10-03,73,Closed,3100,Production line
+8D-0051,SUP008,Wiper arm,Dimensional out of tolerance,2024-07-22,2024-09-14,54,Closed,1548,Customer 0-km
+8D-0052,SUP004,Engine fan,Functional test failure,2024-07-24,2024-09-30,68,Closed,5566,Customer 0-km
+8D-0053,SUP008,Fuel pump module,Dimensional out of tolerance,2024-08-03,2024-08-27,24,Closed,11833,Incoming inspection
+8D-0054,SUP009,Fan shroud,Dimensional out of tolerance,2024-08-03,2024-11-06,95,Closed,1812,Incoming inspection
+8D-0055,SUP009,Fuel pump module,Dimensional out of tolerance,2024-08-14,2024-09-23,40,Closed,1275,Incoming inspection
+8D-0056,SUP007,Control lever,Wrong revision delivered,2024-08-15,2024-08-29,14,Closed,1227,Production line
+8D-0057,SUP015,ECU housing,Surface finish defect,2024-09-02,2024-10-17,45,Closed,5508,Production line
+8D-0058,SUP005,Window lift actuator,Dimensional out of tolerance,2024-09-04,2024-09-24,20,Closed,4930,Incoming inspection
+8D-0059,SUP015,Connector bracket,Dimensional out of tolerance,2024-09-05,2024-10-18,43,Closed,4665,Incoming inspection
+8D-0060,SUP003,Fan shroud,Missing/erroneous documentation,2024-09-05,2024-09-14,9,Closed,2971,Production line
+8D-0061,SUP004,Fuel pump module,Dimensional out of tolerance,2024-09-07,2024-09-14,7,Closed,4656,Incoming inspection
+8D-0062,SUP004,Electric seat actuator,Dimensional out of tolerance,2024-09-11,2024-10-21,40,Closed,15927,Incoming inspection
+8D-0063,SUP010,Connector bracket,Dimensional out of tolerance,2024-09-14,2024-10-02,18,Closed,2474,Production line
+8D-0064,SUP004,Control lever,Missing/erroneous documentation,2024-09-15,2024-10-24,39,Closed,4332,Customer 0-km
+8D-0065,SUP001,Fuel pump module,Dimensional out of tolerance,2024-09-16,2024-09-28,12,Closed,6812,Production line
+8D-0066,SUP004,Fan shroud,Surface finish defect,2024-09-16,2024-10-17,31,Closed,6257,Warranty
+8D-0067,SUP009,ECU housing,Packaging & labeling error,2024-09-17,2024-11-06,50,Closed,3863,Production line
+8D-0068,SUP008,Engine fan,Surface finish defect,2024-09-19,2024-10-23,34,Closed,8421,Customer 0-km
+8D-0069,SUP007,ECU housing,Packaging & labeling error,2024-09-22,2024-10-17,25,Closed,15459,Incoming inspection
+8D-0070,SUP005,Window lift actuator,Material certification issue,2024-09-24,2024-11-13,50,Closed,1904,Production line
+8D-0071,SUP007,Cooling pump,Surface finish defect,2024-09-26,2024-11-04,39,Closed,2519,Customer 0-km
+8D-0072,SUP015,Control lever,Dimensional out of tolerance,2024-09-27,2024-10-20,23,Closed,1443,Production line
+8D-0073,SUP005,Control lever,Dimensional out of tolerance,2024-09-27,2024-11-26,60,Closed,4628,Incoming inspection
+8D-0074,SUP004,Connector bracket,Surface finish defect,2024-09-30,2024-11-19,50,Closed,2742,Incoming inspection
+8D-0075,SUP007,Cooling pump,Material certification issue,2024-10-10,2024-10-25,15,Closed,1645,Customer 0-km
+8D-0076,SUP008,Fuel pump module,Dimensional out of tolerance,2024-10-11,2024-11-17,37,Closed,2056,Production line
+8D-0077,SUP012,Window lift actuator,Surface finish defect,2024-10-18,2024-11-03,16,Closed,4499,Production line
+8D-0078,SUP014,Fuel pump module,Missing/erroneous documentation,2024-10-26,2024-11-11,16,Closed,1764,Customer 0-km
+8D-0079,SUP002,Electric seat actuator,Packaging & labeling error,2024-10-26,2024-12-07,42,Closed,3354,Customer 0-km
+8D-0080,SUP011,Wiper arm,Material certification issue,2024-10-28,2024-11-17,20,Closed,4793,Customer 0-km
+8D-0081,SUP006,Wiper arm,Contamination,2024-10-30,2024-11-25,26,Closed,3207,Warranty
+8D-0082,SUP004,Connector bracket,Functional test failure,2024-11-03,2024-12-27,54,Closed,1969,Production line
+8D-0083,SUP009,Window lift actuator,Functional test failure,2024-11-21,2024-12-25,34,Closed,3253,Customer 0-km
+8D-0084,SUP010,Fan shroud,Surface finish defect,2024-11-26,2025-01-05,40,Closed,2282,Incoming inspection
+8D-0085,SUP008,Electric seat actuator,Material certification issue,2024-11-29,2025-01-16,48,Closed,5543,Incoming inspection
+8D-0086,SUP008,Electric seat actuator,Functional test failure,2024-12-01,2025-02-05,66,Closed,5605,Customer 0-km
+8D-0087,SUP002,Fuel pump module,Functional test failure,2024-12-05,2024-12-30,25,Closed,4977,Incoming inspection
+8D-0088,SUP009,Fuel pump module,Dimensional out of tolerance,2024-12-06,2024-12-13,7,Closed,3237,Production line
+8D-0089,SUP015,Cooling pump,Surface finish defect,2024-12-07,2025-01-02,26,Closed,2653,Production line
+8D-0090,SUP015,Connector bracket,Packaging & labeling error,2024-12-09,2025-01-18,40,Closed,7421,Production line
+8D-0091,SUP008,Connector bracket,Dimensional out of tolerance,2024-12-11,2025-01-21,41,Closed,3844,Production line
+8D-0092,SUP002,Control lever,Functional test failure,2024-12-27,2025-01-07,11,Closed,6513,Production line
+8D-0093,SUP003,ECU housing,Dimensional out of tolerance,2024-12-31,2025-01-16,16,Closed,2755,Incoming inspection
+8D-0094,SUP009,Window lift actuator,Material certification issue,2025-01-02,2025-03-16,73,Closed,5493,Production line
+8D-0095,SUP004,Fuel pump module,Functional test failure,2025-01-07,2025-02-07,31,Closed,7189,Incoming inspection
+8D-0096,SUP010,Cooling pump,Wrong revision delivered,2025-01-07,2025-03-02,54,Closed,4775,Incoming inspection
+8D-0097,SUP006,Control lever,Packaging & labeling error,2025-01-12,2025-02-18,37,Closed,7380,Production line
+8D-0098,SUP005,Fuel pump module,Dimensional out of tolerance,2025-01-13,2025-02-04,22,Closed,9163,Incoming inspection
+8D-0099,SUP004,Control lever,Functional test failure,2025-01-13,2025-02-24,42,Closed,4537,Customer 0-km
+8D-0100,SUP008,Control lever,Material certification issue,2025-01-16,2025-03-08,51,Closed,3346,Incoming inspection
+8D-0101,SUP004,Fuel pump module,Dimensional out of tolerance,2025-01-16,2025-03-07,50,Closed,2295,Customer 0-km
+8D-0102,SUP002,Cooling pump,Functional test failure,2025-01-22,2025-03-02,39,Closed,1040,Warranty
+8D-0103,SUP014,Fan shroud,Missing/erroneous documentation,2025-01-24,2025-02-13,20,Closed,3405,Customer 0-km
+8D-0104,SUP012,Control lever,Wrong revision delivered,2025-01-28,2025-02-28,31,Closed,1687,Customer 0-km
+8D-0105,SUP004,Fan shroud,Contamination,2025-01-28,2025-03-20,51,Closed,1857,Incoming inspection
+8D-0106,SUP006,Engine fan,Dimensional out of tolerance,2025-01-29,2025-04-17,78,Closed,4870,Customer 0-km
+8D-0107,SUP004,Connector bracket,Dimensional out of tolerance,2025-01-29,2025-04-19,80,Closed,5559,Production line
+8D-0108,SUP012,ECU housing,Functional test failure,2025-02-01,2025-03-06,33,Closed,388,Production line
+8D-0109,SUP008,Window lift actuator,Surface finish defect,2025-02-09,2025-04-10,60,Closed,2983,Production line
+8D-0110,SUP006,Connector bracket,Missing/erroneous documentation,2025-02-13,2025-03-21,36,Closed,4588,Incoming inspection
+8D-0111,SUP012,Engine fan,Packaging & labeling error,2025-02-16,2025-03-19,31,Closed,5196,Incoming inspection
+8D-0112,SUP012,ECU housing,Missing/erroneous documentation,2025-02-19,2025-03-27,36,Closed,1215,Production line
+8D-0113,SUP002,Cooling pump,Packaging & labeling error,2025-02-19,2025-04-19,59,Closed,8058,Incoming inspection
+8D-0114,SUP008,Control lever,Dimensional out of tolerance,2025-02-21,2025-05-05,73,Closed,4278,Production line
+8D-0115,SUP012,Electric seat actuator,Functional test failure,2025-02-27,2025-03-30,31,Closed,1746,Warranty
+8D-0116,SUP011,Window lift actuator,Functional test failure,2025-03-01,2025-03-21,20,Closed,5280,Incoming inspection
+8D-0117,SUP009,Engine fan,Material certification issue,2025-03-02,2025-04-10,39,Closed,1848,Production line
+8D-0118,SUP010,Control lever,Functional test failure,2025-03-03,2025-05-08,66,Closed,4559,Production line
+8D-0119,SUP003,Wiper arm,Dimensional out of tolerance,2025-03-03,2025-03-23,20,Closed,1832,Incoming inspection
+8D-0120,SUP008,Fan shroud,Missing/erroneous documentation,2025-03-13,2025-04-08,26,Closed,4905,Incoming inspection
+8D-0121,SUP014,Connector bracket,Surface finish defect,2025-03-15,2025-04-08,24,Closed,1562,Customer 0-km
+8D-0122,SUP014,Fan shroud,Dimensional out of tolerance,2025-03-15,2025-03-30,15,Closed,10879,Incoming inspection
+8D-0123,SUP011,Fuel pump module,Surface finish defect,2025-03-19,2025-04-11,23,Closed,1716,Production line
+8D-0124,SUP004,ECU housing,Contamination,2025-03-20,2025-04-29,40,Closed,10793,Incoming inspection
+8D-0125,SUP008,Fan shroud,Surface finish defect,2025-03-22,2025-04-27,36,Closed,3667,Incoming inspection
+8D-0126,SUP002,Connector bracket,Dimensional out of tolerance,2025-03-27,2025-04-03,7,Closed,3775,Production line
+8D-0127,SUP001,ECU housing,Surface finish defect,2025-03-29,2025-04-19,21,Closed,2332,Incoming inspection
+8D-0128,SUP009,Fan shroud,Dimensional out of tolerance,2025-04-02,2025-05-20,48,Closed,4007,Incoming inspection
+8D-0129,SUP005,Control lever,Surface finish defect,2025-04-02,2025-05-15,43,Closed,11749,Customer 0-km
+8D-0130,SUP004,Control lever,Surface finish defect,2025-04-04,2025-05-28,54,Closed,4114,Customer 0-km
+8D-0131,SUP014,Connector bracket,Surface finish defect,2025-04-05,2025-04-12,7,Closed,2454,Incoming inspection
+8D-0132,SUP012,Engine fan,Missing/erroneous documentation,2025-04-10,2025-04-17,7,Closed,5347,Incoming inspection
+8D-0133,SUP004,Cooling pump,Contamination,2025-04-11,2025-05-01,20,Closed,6623,Incoming inspection
+8D-0134,SUP015,Electric seat actuator,Dimensional out of tolerance,2025-04-17,2025-05-31,44,Closed,2713,Warranty
+8D-0135,SUP004,Connector bracket,Missing/erroneous documentation,2025-04-21,2025-06-12,52,Closed,6180,Production line
+8D-0136,SUP008,Fuel pump module,Contamination,2025-04-24,2025-07-16,83,Closed,294,Production line
+8D-0137,SUP012,Cooling pump,Surface finish defect,2025-04-24,2025-05-09,15,Closed,5187,Incoming inspection
+8D-0138,SUP008,Control lever,Contamination,2025-04-27,2025-06-10,44,Closed,713,Incoming inspection
+8D-0139,SUP006,Electric seat actuator,Contamination,2025-05-02,2025-05-27,25,Closed,4424,Production line
+8D-0140,SUP009,Engine fan,Dimensional out of tolerance,2025-05-02,2025-05-26,24,Closed,2496,Incoming inspection
+8D-0141,SUP011,Wiper arm,Functional test failure,2025-05-02,2025-05-31,29,Closed,3511,Incoming inspection
+8D-0142,SUP005,Fan shroud,Surface finish defect,2025-05-11,2025-06-27,47,Closed,3218,Incoming inspection
+8D-0143,SUP007,Connector bracket,Material certification issue,2025-05-12,2025-06-11,30,Closed,6298,Production line
+8D-0144,SUP004,Control lever,Material certification issue,2025-05-13,2025-07-08,56,Closed,965,Production line
+8D-0145,SUP008,Electric seat actuator,Packaging & labeling error,2025-05-15,2025-06-02,18,Closed,4204,Incoming inspection
+8D-0146,SUP001,ECU housing,Functional test failure,2025-05-18,2025-06-15,28,Closed,1556,Warranty
+8D-0147,SUP005,Engine fan,Dimensional out of tolerance,2025-05-19,2025-06-10,22,Closed,5008,Production line
+8D-0148,SUP005,Fuel pump module,Material certification issue,2025-06-02,2025-06-28,26,Closed,1020,Production line
+8D-0149,SUP015,Electric seat actuator,Contamination,2025-06-06,2025-07-05,29,Closed,4302,Production line
+8D-0150,SUP001,Fuel pump module,Missing/erroneous documentation,2025-06-09,2025-06-25,16,Closed,5418,Incoming inspection
+8D-0151,SUP006,Control lever,Contamination,2025-06-11,2025-07-10,29,Closed,11435,Incoming inspection
+8D-0152,SUP010,Window lift actuator,Contamination,2025-06-15,2025-07-31,46,Closed,6269,Production line
+8D-0153,SUP008,Electric seat actuator,Packaging & labeling error,2025-06-16,2025-08-13,58,Closed,2130,Production line
+8D-0154,SUP004,ECU housing,Wrong revision delivered,2025-06-20,2025-07-29,39,Closed,1652,Incoming inspection
+8D-0155,SUP006,Cooling pump,Wrong revision delivered,2025-06-21,2025-07-11,20,Closed,4392,Incoming inspection
+8D-0156,SUP013,Connector bracket,Dimensional out of tolerance,2025-06-21,2025-06-28,7,Closed,2014,Incoming inspection
+8D-0157,SUP010,Control lever,Surface finish defect,2025-06-22,2025-07-20,28,Closed,3206,Production line
+8D-0158,SUP008,Cooling pump,Packaging & labeling error,2025-06-22,2025-08-29,68,Closed,3231,Incoming inspection
+8D-0159,SUP009,Control lever,Dimensional out of tolerance,2025-06-23,2025-08-22,60,Closed,3288,Production line
+8D-0160,SUP006,Cooling pump,Missing/erroneous documentation,2025-06-28,2025-08-05,38,Closed,2008,Production line
+8D-0161,SUP004,Fan shroud,Dimensional out of tolerance,2025-06-30,2025-09-12,74,Closed,4808,Incoming inspection
+8D-0162,SUP015,Fuel pump module,Dimensional out of tolerance,2025-07-03,2025-08-21,49,Closed,4495,Customer 0-km
+8D-0163,SUP012,ECU housing,Functional test failure,2025-07-05,2025-08-04,30,Closed,8450,Incoming inspection
+8D-0164,SUP009,Window lift actuator,Missing/erroneous documentation,2025-07-07,2025-08-11,35,Closed,4781,Incoming inspection
+8D-0165,SUP009,ECU housing,Surface finish defect,2025-07-13,2025-09-06,55,Closed,5817,Incoming inspection
+8D-0166,SUP005,Control lever,Dimensional out of tolerance,2025-07-18,2025-08-31,44,Closed,32,Incoming inspection
+8D-0167,SUP013,Connector bracket,Material certification issue,2025-07-22,2025-07-31,9,Closed,1020,Production line
+8D-0168,SUP013,Electric seat actuator,Functional test failure,2025-07-24,2025-08-09,16,Closed,6280,Production line
+8D-0169,SUP006,Fuel pump module,Material certification issue,2025-07-30,2025-09-30,62,Closed,5299,Incoming inspection
+8D-0170,SUP006,Fan shroud,Surface finish defect,2025-08-19,2025-09-27,39,Closed,10042,Incoming inspection
+8D-0171,SUP006,Engine fan,Missing/erroneous documentation,2025-08-21,2025-10-07,47,Closed,2737,Incoming inspection
+8D-0172,SUP006,Fuel pump module,Functional test failure,2025-08-23,2025-10-15,53,Closed,3515,Production line
+8D-0173,SUP005,Wiper arm,Surface finish defect,2025-08-30,2025-09-21,22,Closed,2571,Production line
+8D-0174,SUP007,Electric seat actuator,Packaging & labeling error,2025-09-09,2025-09-28,19,Closed,10684,Customer 0-km
+8D-0175,SUP011,Window lift actuator,Dimensional out of tolerance,2025-09-13,2025-10-07,24,Closed,3861,Incoming inspection
+8D-0176,SUP011,Electric seat actuator,Dimensional out of tolerance,2025-09-14,2025-09-30,16,Closed,2019,Production line
+8D-0177,SUP013,Connector bracket,Functional test failure,2025-09-15,2025-09-24,9,Closed,1206,Customer 0-km
+8D-0178,SUP008,Window lift actuator,Wrong revision delivered,2025-09-19,2025-10-27,38,Closed,2185,Production line
+8D-0179,SUP008,Control lever,Functional test failure,2025-09-20,2025-10-24,34,Closed,4171,Production line
+8D-0180,SUP004,Fan shroud,Missing/erroneous documentation,2025-09-24,2025-11-14,51,Closed,4095,Production line
+8D-0181,SUP001,Engine fan,Dimensional out of tolerance,2025-09-25,2025-10-11,16,Closed,2739,Incoming inspection
+8D-0182,SUP015,Engine fan,Missing/erroneous documentation,2025-10-04,2025-11-24,51,Closed,6420,Incoming inspection
+8D-0183,SUP011,Window lift actuator,Functional test failure,2025-10-06,2025-10-25,19,Closed,4114,Warranty
+8D-0184,SUP006,ECU housing,Dimensional out of tolerance,2025-10-08,2025-12-01,54,Closed,1352,Production line
+8D-0185,SUP007,Engine fan,Functional test failure,2025-10-17,2025-11-06,20,Closed,1096,Incoming inspection
+8D-0186,SUP009,Electric seat actuator,Missing/erroneous documentation,2025-10-19,2025-12-24,66,Closed,4473,Production line
+8D-0187,SUP015,Electric seat actuator,Dimensional out of tolerance,2025-10-20,2025-12-08,49,Closed,3689,Production line
+8D-0188,SUP010,Electric seat actuator,Missing/erroneous documentation,2025-10-21,2025-12-06,46,Closed,5555,Incoming inspection
+8D-0189,SUP004,Control lever,Packaging & labeling error,2025-10-23,2025-12-15,53,Closed,7806,Production line
+8D-0190,SUP010,Wiper arm,Contamination,2025-10-24,2025-12-19,56,Closed,4544,Incoming inspection
+8D-0191,SUP004,Engine fan,Surface finish defect,2025-10-28,2025-12-10,43,Closed,7901,Incoming inspection
+8D-0192,SUP003,Engine fan,Dimensional out of tolerance,2025-10-30,2025-11-12,13,Closed,2898,Production line
+8D-0193,SUP012,Control lever,Wrong revision delivered,2025-11-03,2025-12-03,30,Closed,6495,Incoming inspection
+8D-0194,SUP005,Electric seat actuator,Packaging & labeling error,2025-11-06,2025-12-11,35,Closed,3158,Production line
+8D-0195,SUP003,Cooling pump,Functional test failure,2025-11-06,2025-11-15,9,Closed,4424,Incoming inspection
+8D-0196,SUP010,Fuel pump module,Functional test failure,2025-11-20,2025-12-22,32,Closed,6667,Production line
+8D-0197,SUP006,Fan shroud,Missing/erroneous documentation,2025-11-24,2026-02-18,86,Closed,8267,Customer 0-km
+8D-0198,SUP012,Window lift actuator,Material certification issue,2025-11-27,2025-12-10,13,Closed,4264,Incoming inspection
+8D-0199,SUP005,Fan shroud,Material certification issue,2025-11-28,2026-01-13,46,Closed,1743,Production line
+8D-0200,SUP014,Fuel pump module,Functional test failure,2025-11-29,2025-12-15,16,Closed,1743,Customer 0-km
+8D-0201,SUP010,Cooling pump,Dimensional out of tolerance,2025-11-29,2025-12-20,21,Closed,5570,Incoming inspection
+8D-0202,SUP008,Control lever,Wrong revision delivered,2025-11-30,2026-01-17,48,Closed,1690,Production line
+8D-0203,SUP010,Window lift actuator,Surface finish defect,2025-11-30,2026-01-04,35,Closed,4954,Customer 0-km
+8D-0204,SUP008,Engine fan,Dimensional out of tolerance,2025-12-01,2026-01-11,41,Closed,12635,Incoming inspection
+8D-0205,SUP011,ECU housing,Dimensional out of tolerance,2025-12-02,2025-12-22,20,Closed,3554,Incoming inspection
+8D-0206,SUP010,Wiper arm,Dimensional out of tolerance,2025-12-05,2026-01-14,40,Closed,980,Production line
+8D-0207,SUP015,Fan shroud,Missing/erroneous documentation,2025-12-06,2026-01-05,30,Closed,2525,Production line
+8D-0208,SUP004,Control lever,Dimensional out of tolerance,2025-12-12,2026-01-03,22,Closed,1364,Incoming inspection
+8D-0209,SUP013,Electric seat actuator,Material certification issue,2025-12-15,2025-12-22,7,Closed,4936,Production line
+8D-0210,SUP005,Cooling pump,Dimensional out of tolerance,2025-12-15,2026-01-05,21,Closed,6726,Incoming inspection
+8D-0211,SUP009,Control lever,Surface finish defect,2025-12-17,2026-02-02,47,Closed,13029,Incoming inspection
+8D-0212,SUP008,Electric seat actuator,Contamination,2025-12-17,2026-01-08,22,Closed,2359,Incoming inspection
+8D-0213,SUP005,Fuel pump module,Surface finish defect,2025-12-20,2026-02-04,46,Closed,3917,Customer 0-km
+8D-0214,SUP002,Cooling pump,Contamination,2025-12-21,2026-01-25,35,Closed,4203,Production line
+8D-0215,SUP004,Connector bracket,Surface finish defect,2025-12-24,2026-01-30,37,Closed,5361,Production line
+8D-0216,SUP011,Engine fan,Dimensional out of tolerance,2025-12-30,2026-01-14,15,Closed,5068,Production line
+8D-0217,SUP010,Fuel pump module,Functional test failure,2026-01-08,2026-02-16,39,Closed,878,Incoming inspection
+8D-0218,SUP005,Fuel pump module,Functional test failure,2026-01-08,2026-02-12,35,Closed,8511,Customer 0-km
+8D-0219,SUP012,Engine fan,Missing/erroneous documentation,2026-01-09,2026-02-09,31,Closed,13491,Incoming inspection
+8D-0220,SUP009,ECU housing,Dimensional out of tolerance,2026-01-12,2026-02-19,38,Closed,1875,Production line
+8D-0221,SUP009,Cooling pump,Dimensional out of tolerance,2026-01-18,2026-03-27,68,Closed,3522,Incoming inspection
+8D-0222,SUP004,Control lever,Surface finish defect,2026-01-21,2026-03-20,58,Closed,7868,Incoming inspection
+8D-0223,SUP015,Control lever,Functional test failure,2026-01-23,2026-03-18,54,Closed,11110,Incoming inspection
+8D-0224,SUP008,Engine fan,Missing/erroneous documentation,2026-01-24,2026-03-19,54,Closed,6034,Incoming inspection
+8D-0225,SUP005,Fuel pump module,Functional test failure,2026-01-29,2026-03-03,33,Closed,12076,Incoming inspection
+8D-0226,SUP008,Connector bracket,Surface finish defect,2026-01-31,2026-04-06,65,Closed,1778,Warranty
+8D-0227,SUP004,Engine fan,Surface finish defect,2026-02-04,2026-04-24,79,Closed,5682,Production line
+8D-0228,SUP007,Window lift actuator,Packaging & labeling error,2026-02-20,2026-03-20,28,Closed,2113,Incoming inspection
+8D-0229,SUP015,Control lever,Material certification issue,2026-02-22,2026-03-28,34,Closed,938,Warranty
+8D-0230,SUP008,Engine fan,Missing/erroneous documentation,2026-02-22,2026-04-01,38,Closed,5504,Production line
+8D-0231,SUP005,Control lever,Contamination,2026-02-23,2026-04-03,39,Closed,910,Incoming inspection
+8D-0232,SUP008,ECU housing,Dimensional out of tolerance,2026-02-25,2026-04-06,40,Closed,780,Customer 0-km
+8D-0233,SUP003,Window lift actuator,Material certification issue,2026-03-05,2026-03-22,17,Closed,6360,Production line
+8D-0234,SUP005,ECU housing,Functional test failure,2026-03-06,2026-04-07,32,Closed,5023,Production line
+8D-0235,SUP004,Fan shroud,Surface finish defect,2026-03-08,2026-04-28,51,Closed,6361,Production line
+8D-0236,SUP013,Connector bracket,Dimensional out of tolerance,2026-03-08,2026-03-22,14,Closed,2600,Customer 0-km
+8D-0237,SUP009,Fan shroud,Packaging & labeling error,2026-03-12,2026-05-13,62,Closed,2642,Customer 0-km
+8D-0238,SUP008,Cooling pump,Surface finish defect,2026-03-19,2026-05-05,47,Closed,6543,Production line
+8D-0239,SUP004,Cooling pump,Surface finish defect,2026-03-21,2026-05-25,65,Closed,874,Incoming inspection
+8D-0240,SUP015,Electric seat actuator,Dimensional out of tolerance,2026-03-27,2026-04-18,22,Closed,1788,Production line
+8D-0241,SUP006,Fuel pump module,Surface finish defect,2026-04-02,2026-06-04,63,Closed,1420,Customer 0-km
+8D-0242,SUP002,Window lift actuator,Dimensional out of tolerance,2026-04-02,2026-05-07,35,Closed,1958,Production line
+8D-0243,SUP008,Fan shroud,Dimensional out of tolerance,2026-04-06,2026-05-18,42,Closed,1422,Customer 0-km
+8D-0244,SUP001,Cooling pump,Packaging & labeling error,2026-04-08,2026-04-27,19,Closed,340,Production line
+8D-0245,SUP003,Window lift actuator,Wrong revision delivered,2026-04-23,2026-05-05,12,Closed,2934,Production line
+8D-0246,SUP008,Control lever,Dimensional out of tolerance,2026-04-25,,,Open,2043,Incoming inspection
+8D-0247,SUP001,Cooling pump,Dimensional out of tolerance,2026-05-02,2026-05-21,19,Closed,1534,Incoming inspection
+8D-0248,SUP015,Connector bracket,Surface finish defect,2026-05-03,,,Open,1025,Incoming inspection
+8D-0249,SUP005,Engine fan,Functional test failure,2026-05-04,,,Open,1462,Production line
+8D-0250,SUP007,Window lift actuator,Dimensional out of tolerance,2026-05-05,2026-05-30,25,Closed,1802,Customer 0-km
+8D-0251,SUP014,Cooling pump,Material certification issue,2026-05-06,2026-05-28,22,Closed,3696,Incoming inspection
+8D-0252,SUP007,Engine fan,Dimensional out of tolerance,2026-05-08,2026-06-11,34,Closed,2001,Incoming inspection
+8D-0253,SUP008,Electric seat actuator,Dimensional out of tolerance,2026-05-09,,,Open,9690,Production line
+8D-0254,SUP002,Fan shroud,Contamination,2026-05-13,,,Open,3700,Production line
+8D-0255,SUP007,Fan shroud,Missing/erroneous documentation,2026-05-21,,,Open,2251,Customer 0-km
+8D-0256,SUP006,Window lift actuator,Surface finish defect,2026-05-23,,,Open,663,Production line
+8D-0257,SUP015,Fan shroud,Contamination,2026-05-24,,,Open,3435,Production line
+8D-0258,SUP010,Control lever,Material certification issue,2026-05-25,,,Open,5259,Warranty
+8D-0259,SUP006,Wiper arm,Contamination,2026-05-29,,,Open,1649,Production line
+8D-0260,SUP006,Window lift actuator,Packaging & labeling error,2026-05-31,,,Open,6140,Production line
